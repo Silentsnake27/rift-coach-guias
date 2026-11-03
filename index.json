@@ -1,0 +1,105 @@
+{
+  "format": 1,
+  "updated": "2026-11-03",
+  "entries": [
+    {
+      "kind": "profile",
+      "id": "caitlyn-adc",
+      "file": "profiles/caitlyn-adc.json",
+      "sha256": "4df4301b77c9fe0fdfb7c6b030e9c81c0697242d0db5d965e79c40425d494c1a",
+      "champion": "Caitlyn",
+      "title": "Caitlyn ADC · qué construir y cuándo",
+      "date": "2026-11-03"
+    },
+    {
+      "kind": "profile",
+      "id": "lux-support",
+      "file": "profiles/lux-support.json",
+      "sha256": "5f174fdb2d5a788537061c6cfab292f9310bdb9273bb1e7a13e493ca4c5bc44a",
+      "champion": "Lux",
+      "title": "Lux soporte · qué construir y cuándo",
+      "date": "2026-11-03"
+    },
+    {
+      "kind": "profile",
+      "id": "missfortune-adc",
+      "file": "profiles/missfortune-adc.json",
+      "sha256": "a106fae57813e9475a9fd1bf4c978d7162b852a24e584b35895f170b868e9708",
+      "champion": "MissFortune",
+      "title": "Miss Fortune ADC · qué construir y cuándo",
+      "date": "2026-11-03"
+    },
+    {
+      "kind": "profile",
+      "id": "seraphine-support",
+      "file": "profiles/seraphine-support.json",
+      "sha256": "f56b0e398aed93ebf3c74056f0c1282647d20f8cd579ad33cde28f5d605b7c5d",
+      "champion": "Seraphine",
+      "title": "Seraphine soporte · qué construir y cuándo",
+      "date": "2026-11-03"
+    },
+    {
+      "kind": "doc",
+      "id": "caitlyn-guia-build",
+      "file": "docs/caitlyn-guia-build.md",
+      "sha256": "a29715fad0fc9b952c2395dd320babd9159b9cd611b2eb5154aa87c9ac2c6ad5",
+      "champion": "Caitlyn",
+      "title": "Caitlyn ADC · Qué construir y cuándo",
+      "date": "2026-11-03"
+    },
+    {
+      "kind": "doc",
+      "id": "lux-guia-build",
+      "file": "docs/lux-guia-build.md",
+      "sha256": "a4ef9e079aa0d3364803a144d0d008c33e27a79703912376b58b931f123e7e6a",
+      "champion": "Lux",
+      "title": "Lux Support · Qué construir y cuándo",
+      "date": "2026-11-03"
+    },
+    {
+      "kind": "doc",
+      "id": "missfortune-guia-build",
+      "file": "docs/missfortune-guia-build.md",
+      "sha256": "4c6808f1ace6dbb813598cb04c2eebdf429529a43dc0fa23bd4d1f11e5ac8a7f",
+      "champion": "MissFortune",
+      "title": "Miss Fortune ADC · Qué construir y cuándo",
+      "date": "2026-11-03"
+    },
+    {
+      "kind": "doc",
+      "id": "seraphine-guia-build",
+      "file": "docs/seraphine-guia-build.md",
+      "sha256": "bebd47db6e37f342b9bcb04ea7cb22df5f4c2196b576c891622e06261b4267db",
+      "champion": "Seraphine",
+      "title": "Seraphine Support · Qué construir y cuándo",
+      "date": "2026-11-03"
+    },
+    {
+      "kind": "doc",
+      "id": "yunara-guia-build",
+      "file": "docs/yunara-guia-build.md",
+      "sha256": "54aaec4137935ce5c52639edd401311c7a036954f1cdfa38f79851b928b3a70d",
+      "champion": "Yunara",
+      "title": "Yunara ADC · Qué construir y cuándo",
+      "date": "2026-10-27"
+    },
+    {
+      "kind": "doc",
+      "id": "yunara-runas",
+      "file": "docs/yunara-runas.md",
+      "sha256": "f5907055d5540287b00a80c1fab2c97b9f3f01718c14f4d74a766001253621bb",
+      "champion": "Yunara",
+      "title": "Runas de Yunara · qué página elegir",
+      "date": "2026-10-28"
+    },
+    {
+      "kind": "doc",
+      "id": "yunara-vs-zed-camille",
+      "file": "docs/yunara-vs-zed-camille.md",
+      "sha256": "5169e893697d7a28a61afa90395ced4d78b488c5156a445f348b28ba67913093",
+      "champion": "Yunara",
+      "title": "Partida 28/10 · Yunara contra Zed y Camille",
+      "date": "2026-10-28"
+    }
+  ]
+}

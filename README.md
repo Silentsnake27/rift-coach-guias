@@ -11,11 +11,13 @@ No edites estos archivos a mano: se generan desde el repo de la app con `node sc
 | Guía | Campeón | Fecha |
 |---|---|---|
 | Caitlyn ADC · qué construir y cuándo | Caitlyn | 2026-11-03 |
+| Lux medio · qué construir y cuándo | Lux | 2026-11-03 |
 | Lux soporte · qué construir y cuándo | Lux | 2026-11-03 |
 | Miss Fortune ADC · qué construir y cuándo | MissFortune | 2026-11-03 |
 | Seraphine soporte · qué construir y cuándo | Seraphine | 2026-11-03 |
 | Caitlyn ADC · Qué construir y cuándo | Caitlyn | 2026-11-03 |
 | Lux Support · Qué construir y cuándo | Lux | 2026-11-03 |
+| Lux Medio · Qué construir y cuándo | Lux | 2026-11-03 |
 | Miss Fortune ADC · Qué construir y cuándo | MissFortune | 2026-11-03 |
 | Seraphine Support · Qué construir y cuándo | Seraphine | 2026-11-03 |
 | Yunara ADC · Qué construir y cuándo | Yunara | 2026-10-27 |

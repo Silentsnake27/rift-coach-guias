@@ -2,13 +2,15 @@
 title: Caitlyn ADC · Qué construir y cuándo
 champions: Caitlyn
 kind: guía
-date: 2026-11-03
+date: 2026-11-04
 patch: 26.21
 source: Guía propia (Claude) · LoLalytics Esmeralda+ 26.21, Skill Capped y Data Dragon 16.21.1
 url: https://claude.ai/artifact/MXUTns8BzGS5XPc8spTc1Q
 ---
 
 Caitlyn gana partidas con **alcance, trampas y el Disparo a la Cabeza**. Su daño escala con AD total y probabilidad de crítico, así que la build casi siempre es AD + crítico. Lo que cambia de partida a partida es el **primer objeto** (según el oro de tu primera vuelta) y el **tercero** (según lo que te impide hacer daño).
+
+> **Revisada para el parche 26.22:** Caitlyn no cambia. El Arco de Doran ya da 7 AD (antes 8), así que la Espada de Doran gana más ventaja como inicio. Thresh hace menos daño (AD base 54, R 200/350/500). Mel ya no refleja proyectiles: su W solo los destruye dentro de una nova de 400 u durante 0,75 s, así que lanza tu Q o tu R cuando la haya gastado.
 
 Datos: Parche: **26.21** (cliente 16.21) · Estadísticas: **LoLalytics, Esmeralda+, 339.513 partidas** (2 nov 2026) · WR **50,4%** · pick **13,1%** · ban **21,5%**.
 
@@ -268,7 +270,7 @@ Aprovecha la letalidad temprana para asediar y forzar placas. RFC 3º te deja se
 | {{champ:Jhin}} | 49,7% | Su 4º disparo y la W lo igualan. Esquiva sus trampas y la W cuando estés marcada. |
 | {{champ:Jinx}} | 49,5% | Con cohetes casi alcanza tu rango. Gánale el oro temprano; sus trampas (E) te cortan la retirada después de usar la red. |
 | {{champ:Sivir}} | 48,4% | El escudo bloquea trampa, red y R. Gasta primero la Q para que use el escudo; empuja ola y gana con ataques. |
-| Ziggs, Yasuo, Swain, Mel | peores | Picks de bot fuera de lo normal que te ganan en alcance, waveclear o bloqueo de proyectiles. Juega por farmear, no pierdas torres. |
+| Ziggs, Yasuo, Swain | peores | Picks de bot fuera de lo normal que te ganan en alcance, waveclear o bloqueo de proyectiles (muro de Yasuo). Juega por farmear, no pierdas torres. Mel ya no refleja desde 26.22. |
 
 | Soporte rival | WR | Plan |
 |---|---|---|

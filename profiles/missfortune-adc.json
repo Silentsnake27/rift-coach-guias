@@ -308,7 +308,8 @@
     "Intercambio base: ataque → Q → ataque y retírate. La pasiva solo se activa con un objetivo nuevo.",
     "Usa los súbditos: si el rival está detrás de uno, Q al súbdito; si está delante, atácale y Q a él para que rebote.",
     "No lances la R contra la E de Braum, la W de Yasuo o la W de Samira: espera a que las gasten o cambia de ángulo.",
-    "Con la misión de bot completa las botas van a su ranura: terminas con 6 legendarios + botas."
+    "Con la misión de bot completa las botas van a su ranura: terminas con 6 legendarios + botas.",
+    "Mel (26.22) ya no refleja tu R: dispárala cuando haya gastado la W o desde fuera de su nova (400 u)."
   ],
   "builtIn": true,
   "changelog": [
@@ -326,6 +327,11 @@
       "date": "2026-11-03",
       "patch": "26.21",
       "summary": "Perfil rehecho con la guía propia del parche 26.21: Espada de Doran, Primer Golpe con soporte de poke o encantador, Triunfo en líneas de all-in, ruta de Arrogancia y de letalidad, Filo de la Noche dentro de la build cuando te pueden cortar la R, y Colmillo de Serpiente contra escudos."
+    },
+    {
+      "date": "2026-11-04",
+      "patch": "26.22",
+      "summary": "Revisada para 26.22: Miss Fortune sin cambios; Mel ya no refleja tu R y Thresh hace menos daño."
     }
   ]
 }

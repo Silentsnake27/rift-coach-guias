@@ -240,7 +240,8 @@
     "Cada tercer hechizo se lanza dos veces y empiezas con el doble cargado: guárdalo para la E (ralentiza + raíz) o la W (escudo + cura).",
     "Pokea con la Q simple. Nivel 1 E si tu ADC quiere pelear; Q si vas a pokear.",
     "La R renueva su alcance con cada campeón, también aliados: lánzala a través de tu frontline.",
-    "Gasta las cargas del Mapamundi pegando al rival, no rematando súbditos."
+    "Gasta las cargas del Mapamundi pegando al rival, no rematando súbditos.",
+    "Mel (26.22) ya no refleja tu R, pero su W destruye proyectiles dentro de 400 u: no la lances justo encima de ella mientras la tenga."
   ],
   "builtIn": true,
   "changelog": [
@@ -258,6 +259,11 @@
       "date": "2026-11-03",
       "patch": "26.21",
       "summary": "Perfil rehecho con la guía propia del parche 26.21: ruta de control con Espina de Zaz'Zak también si tu ADC ralentiza (Miss Fortune, Ashe), ruta de Trineo del Solsticio con ADC de corto alcance o dive, página de Guardián contra asesinos y W primero en la ruta de curación."
+    },
+    {
+      "date": "2026-11-04",
+      "patch": "26.22",
+      "summary": "Revisada para 26.22: Seraphine sin cambios; Mel ya no puede reflejar tu R y Thresh hace menos daño."
     }
   ]
 }

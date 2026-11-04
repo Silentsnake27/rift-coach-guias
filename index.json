@@ -1,96 +1,132 @@
 {
   "format": 1,
-  "updated": "2026-11-03",
+  "updated": "2026-11-04",
   "entries": [
     {
       "kind": "profile",
       "id": "caitlyn-adc",
       "file": "profiles/caitlyn-adc.json",
-      "sha256": "4df4301b77c9fe0fdfb7c6b030e9c81c0697242d0db5d965e79c40425d494c1a",
+      "sha256": "2fddfb7ad517f5775fb02a6df62c08da4813a96765cff061815acb8f9996a5a1",
       "champion": "Caitlyn",
       "title": "Caitlyn ADC · qué construir y cuándo",
-      "date": "2026-11-03"
+      "date": "2026-11-04"
     },
     {
       "kind": "profile",
       "id": "lux-mid",
       "file": "profiles/lux-mid.json",
-      "sha256": "3b924101ebc9861fb0310e6ccebe55f431a8504bd11be170c13014324b83c1aa",
+      "sha256": "4af2fe8fb0bd318d614704f0d6635af52e01cb2d31bf6db90e5daac905185085",
       "champion": "Lux",
       "title": "Lux medio · qué construir y cuándo",
-      "date": "2026-11-03"
+      "date": "2026-11-04"
     },
     {
       "kind": "profile",
       "id": "lux-support",
       "file": "profiles/lux-support.json",
-      "sha256": "5f174fdb2d5a788537061c6cfab292f9310bdb9273bb1e7a13e493ca4c5bc44a",
+      "sha256": "bf3830cd870e364301b3bf73f124fb0744e5af34f0d146ed2301c2a27dd7f85a",
       "champion": "Lux",
       "title": "Lux soporte · qué construir y cuándo",
-      "date": "2026-11-03"
+      "date": "2026-11-04"
+    },
+    {
+      "kind": "profile",
+      "id": "mel-mid",
+      "file": "profiles/mel-mid.json",
+      "sha256": "47d83c1aad419e1801fc61eba1bcda66182e615bf295f27e71ab9618d2ed87a6",
+      "champion": "Mel",
+      "title": "Mel medio (beta 26.22) · qué construir y cuándo",
+      "date": "2026-11-04"
     },
     {
       "kind": "profile",
       "id": "missfortune-adc",
       "file": "profiles/missfortune-adc.json",
-      "sha256": "a106fae57813e9475a9fd1bf4c978d7162b852a24e584b35895f170b868e9708",
+      "sha256": "b7ae50575469339bcfc0e6554fbb29361c0c4487cd3623bfdde76a4babdd842e",
       "champion": "MissFortune",
       "title": "Miss Fortune ADC · qué construir y cuándo",
-      "date": "2026-11-03"
+      "date": "2026-11-04"
     },
     {
       "kind": "profile",
       "id": "seraphine-support",
       "file": "profiles/seraphine-support.json",
-      "sha256": "f56b0e398aed93ebf3c74056f0c1282647d20f8cd579ad33cde28f5d605b7c5d",
+      "sha256": "dc64a495382dfa5d70747225b25d9bf1816fc5e3072826c1c58412661d6d3bf0",
       "champion": "Seraphine",
       "title": "Seraphine soporte · qué construir y cuándo",
-      "date": "2026-11-03"
+      "date": "2026-11-04"
+    },
+    {
+      "kind": "profile",
+      "id": "viktor-mid",
+      "file": "profiles/viktor-mid.json",
+      "sha256": "fdce6e4df48d427309e397044351a2434edd918e288e149cf4d62310f4830a87",
+      "champion": "Viktor",
+      "title": "Viktor medio · qué construir y cuándo",
+      "date": "2026-11-04"
     },
     {
       "kind": "doc",
       "id": "caitlyn-guia-build",
       "file": "docs/caitlyn-guia-build.md",
-      "sha256": "a29715fad0fc9b952c2395dd320babd9159b9cd611b2eb5154aa87c9ac2c6ad5",
+      "sha256": "1a75f40631511aacb3a5680071b1b8ba26c34c2c9f021a28ae7dae996c923d4a",
       "champion": "Caitlyn",
       "title": "Caitlyn ADC · Qué construir y cuándo",
-      "date": "2026-11-03"
+      "date": "2026-11-04"
     },
     {
       "kind": "doc",
       "id": "lux-guia-build",
       "file": "docs/lux-guia-build.md",
-      "sha256": "a4ef9e079aa0d3364803a144d0d008c33e27a79703912376b58b931f123e7e6a",
+      "sha256": "6e38d5559d9ebfbdab3940eae98f0e57191bbe0d31872f1c405836f268598dc3",
       "champion": "Lux",
       "title": "Lux Support · Qué construir y cuándo",
-      "date": "2026-11-03"
+      "date": "2026-11-04"
     },
     {
       "kind": "doc",
       "id": "lux-mid-guia-build",
       "file": "docs/lux-mid-guia-build.md",
-      "sha256": "eb3842dfcb2c8cc1a7bceaf30389674f6c537a1a8448e506145bacc293d91af2",
+      "sha256": "51e29bb22e407868eb7b092d448ed77c5c2c07906140e5193a6bf671d7e4795b",
       "champion": "Lux",
       "title": "Lux Medio · Qué construir y cuándo",
-      "date": "2026-11-03"
+      "date": "2026-11-04"
+    },
+    {
+      "kind": "doc",
+      "id": "mel-mid-guia-build",
+      "file": "docs/mel-mid-guia-build.md",
+      "sha256": "ab704fb69a8dc502afd046d36bd802b97b0e1cf626f72aba13a0468fd53accfa",
+      "champion": "Mel",
+      "title": "Mel Medio (beta 26.22) · Qué construir y cuándo",
+      "date": "2026-11-04"
     },
     {
       "kind": "doc",
       "id": "missfortune-guia-build",
       "file": "docs/missfortune-guia-build.md",
-      "sha256": "4c6808f1ace6dbb813598cb04c2eebdf429529a43dc0fa23bd4d1f11e5ac8a7f",
+      "sha256": "ab8e1c8488c8fceaca278d6cacdbfc518eff30a76bbf01cb88782e90f3698022",
       "champion": "MissFortune",
       "title": "Miss Fortune ADC · Qué construir y cuándo",
-      "date": "2026-11-03"
+      "date": "2026-11-04"
     },
     {
       "kind": "doc",
       "id": "seraphine-guia-build",
       "file": "docs/seraphine-guia-build.md",
-      "sha256": "bebd47db6e37f342b9bcb04ea7cb22df5f4c2196b576c891622e06261b4267db",
+      "sha256": "d65744f86b6aedffe5521557e3738061b25ce1bf9d60ef32f1713da6728302fa",
       "champion": "Seraphine",
       "title": "Seraphine Support · Qué construir y cuándo",
-      "date": "2026-11-03"
+      "date": "2026-11-04"
+    },
+    {
+      "kind": "doc",
+      "id": "viktor-mid-guia-build",
+      "file": "docs/viktor-mid-guia-build.md",
+      "sha256": "1bf4bdc4d79d5bceb0ef8e989cc81d2817875c2b877d7f874ad9c76dcbc64014",
+      "champion": "Viktor",
+      "title": "Viktor Medio · Qué construir y cuándo",
+      "date": "2026-11-04"
     },
     {
       "kind": "doc",

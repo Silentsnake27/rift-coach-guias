@@ -2,13 +2,15 @@
 title: Seraphine Support · Qué construir y cuándo
 champions: Seraphine
 kind: guía
-date: 2026-11-03
+date: 2026-11-04
 patch: 26.21
 source: Guía propia (Claude) · LoLalytics Esmeralda+ 26.21, Skill Capped y Data Dragon 16.21.1
 url: https://claude.ai/artifact/9t3KivnUomzGX2fBBE74AF
 ---
 
 Seraphine es una **maga de poke en línea** y una **encantadora de pelea en grupo** al final. Lo que decides cada partida es la **mejora del Mapamundi** y si vas por la ruta de curación (Ecos de Helia) o la de control (Rylai + Mandato). Su habilidad clave es la pasiva: cada tercer hechizo se lanza dos veces.
+
+> **Revisada para el parche 26.22:** Seraphine no cambia. Mel ya no puede reflejar tu R (Riot lo puso como ejemplo); su W aún destruye proyectiles dentro de una nova de 400 u, así que no lances la R justo encima de ella mientras la tenga. Thresh hace menos daño (AD base 54, R 200/350/500).
 
 Datos: Parche: **26.21** (cliente 16.21) · Estadísticas: **LoLalytics, Esmeralda+, 158.259 partidas** (2 nov 2026) · WR **52,5%** · pick **6,6%** · ban **4,8%** · tier A+.
 

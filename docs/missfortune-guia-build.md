@@ -2,13 +2,15 @@
 title: Miss Fortune ADC · Qué construir y cuándo
 champions: MissFortune
 kind: guía
-date: 2026-11-03
+date: 2026-11-04
 patch: 26.21
 source: Guía propia (Claude) · LoLalytics Esmeralda+ 26.21, Skill Capped y Data Dragon 16.21.1
 url: https://claude.ai/artifact/8HyPcoYFaQmmpbEGuTaCeV
 ---
 
 Miss Fortune gana la línea con **intercambios cortos** (ataque → Q → ataque) y gana las peleas con **una buena R**. Su build es AD + letalidad temprano y crítico después. Lo que decides cada partida es el **primer objeto** (sustain o bola de nieve) y si necesitas proteger tu R.
+
+> **Revisada para el parche 26.22:** Miss Fortune no cambia y la Espada de Doran sigue siendo el inicio. Thresh hace menos daño (AD base 54, R 200/350/500). Mel ya no refleja tu R: su W solo destruye proyectiles dentro de una nova de 400 u, así que dispara la R cuando la haya gastado o desde fuera de ese radio.
 
 Datos: Parche: **26.21** (cliente 16.21) · Estadísticas: **LoLalytics, Esmeralda+, 224.935 partidas** (2 nov 2026) · WR **52,9%** · pick **8,7%** · ban **1,6%** · tier B+.
 

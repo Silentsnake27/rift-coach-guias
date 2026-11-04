@@ -2,14 +2,14 @@
 title: Lux Medio · Qué construir y cuándo
 champions: Lux
 kind: guía
-date: 2026-11-03
-patch: 26.21
+date: 2026-11-04
+patch: 26.22
 source: Guía propia (Claude) · LoLalytics Esmeralda+ 26.21 (Lux medio) y Data Dragon 16.21.1
 ---
 
 Lux en medio es una **maga de ráfaga y control a distancia**: limpia la oleada con la E, castiga con Q + E + R y ayuda a otras líneas con una definitiva de 3.400 de alcance que vuelve en 40–60 s. Lo que decides cada partida es el **primer objeto** (Luden o Maldad) y **cuándo meter el Reloj de Zhonya** si hay asesinos.
 
-Datos: LoLalytics, Esmeralda+, parche 26.21 · WR **52,9%** · tier **S** (5ª de 94 en medio) · 110.000 partidas.
+Datos: LoLalytics, Esmeralda+, parche 26.21 · WR **52,9%** · tier **S** (4ª–5ª de 94 en medio) · ≈106.000 partidas. Lux no cambia en el 26.22, así que estos datos siguen valiendo.
 
 ## La decisión en 30 segundos
 
@@ -39,13 +39,14 @@ Datos: LoLalytics, Esmeralda+, parche 26.21 · WR **52,9%** · tier **S** (5ª d
 | Magos de poke (Xerath, Hwei, Ziggs, Vel'Koz) | {{rune:8233}} en vez de {{rune:8210}} | Ganas el intercambio de poke mientras estés por encima del 70% (53,7%). |
 | Muchas peleas y rival blando | {{rune:8128}} con {{rune:8140}} · Brujería: {{rune:8224}} + {{rune:8210}} | Igual que el Cometa (53,0% en 19% de partidas). |
 | Partida larga | {{rune:8236}} en vez de {{rune:8237}} | 53,6% en 11% de partidas. |
+| Quieres jugar agresivo y matar en línea | {{rune:8112}} + {{rune:8126}} · {{rune:8140}} · {{rune:8106}} · Brujería: {{rune:8233}} + {{rune:8237}} | La página con más WR (58,7%, 2.753 partidas, muestra pequeña). La usa MrG3nius (Master). |
 
 ## Hechizos
 
 | Hechizos | Uso · WR | Cuándo |
 |---|---|---|
-| {{spell:4}} + {{spell:12}} | 47% · 52,2% | Por defecto: presión en otras líneas y vuelves sin perder oleadas. |
-| {{spell:4}} + {{spell:21}} | 36% · **54,0%** | Contra asesinos o si prefieres jugar seguro. Gana más que Teletransportación. |
+| {{spell:4}} + {{spell:21}} | 36% · **54,0%** | **Por defecto en solo cola.** Lux es inmóvil y los asesinos te alcanzan. |
+| {{spell:4}} + {{spell:12}} | 47% · 52,2% | Si prefieres presión en otras líneas y volver sin perder oleadas. |
 | {{spell:4}} + {{spell:14}} | 9% · 52,3% | Línea que vas a ganar y quieres matar antes del 6. |
 | {{spell:4}} + {{spell:3}} | 5% · 53,7% | Contra Zed, Talon o Fizz si tu equipo tiene poco peel. |
 
@@ -54,6 +55,7 @@ Datos: LoLalytics, Esmeralda+, parche 26.21 · WR **52,9%** · tier **S** (5ª d
 - {{item:1056}} + 2 {{item:2003}} (97% de partidas).
 - Primera vuelta: {{item:3802}} (maná para Luden o Maldad) o {{item:3145}} si vas a pokear ya. {{item:2055}} siempre.
 - Contra asesinos: {{item:2420}} temprano si vas perdiendo: te salva una vez y se convierte en Zhonya.
+- {{item:1082}} cuando te sobren 350 de oro y vayas por delante (Skill Capped).
 
 ## Las builds completas
 
@@ -95,6 +97,7 @@ El Reloj de Zhonya 2º te deja sobrevivir a la entrada del asesino; tu equipo lo
 | {{champ:Zed}} | 54,0% | Guarda la Q para cuando entre con la sombra; Barrera y Zhonya pronto. |
 | {{champ:Lissandra}} / {{champ:Yone}} / {{champ:Syndra}} / {{champ:Ahri}} | 52–54% | Parejas. Esquiva el control y castiga sus enfriamientos. |
 | {{champ:Fizz}} / {{champ:Katarina}} / {{champ:Yasuo}} | 50,7–50,8% | Fizz esquiva con la E; Yasuo bloquea tu Q con el muro. Juega a farmear y a ayudar con la R. |
+| {{champ:Mel}} (26.22) | Mel ganaba ≈47% contra ti en 26.21 | Mejora para ti: tu Q y tu R ya no vuelven contra ti. Su W solo destruye proyectiles dentro de 400 u durante 0,75 s: lanza la Q cuando la haya gastado (24–30 s). |
 | {{champ:Locke}} | 49,7% | Difícil: juega seguro y busca la Q tras su entrada. |
 | {{champ:Xerath}} / Talon / Aurora | 48,8% y peores | Xerath te gana el poke; Talon y Aurora te alcanzan. Concentración Absoluta o Coraza Ósea, y Zhonya pronto. |
 

@@ -10,16 +10,20 @@ No edites estos archivos a mano: se generan desde el repo de la app con `node sc
 
 | Guía | Campeón | Fecha |
 |---|---|---|
-| Caitlyn ADC · qué construir y cuándo | Caitlyn | 2026-11-03 |
-| Lux medio · qué construir y cuándo | Lux | 2026-11-03 |
-| Lux soporte · qué construir y cuándo | Lux | 2026-11-03 |
-| Miss Fortune ADC · qué construir y cuándo | MissFortune | 2026-11-03 |
-| Seraphine soporte · qué construir y cuándo | Seraphine | 2026-11-03 |
-| Caitlyn ADC · Qué construir y cuándo | Caitlyn | 2026-11-03 |
-| Lux Support · Qué construir y cuándo | Lux | 2026-11-03 |
-| Lux Medio · Qué construir y cuándo | Lux | 2026-11-03 |
-| Miss Fortune ADC · Qué construir y cuándo | MissFortune | 2026-11-03 |
-| Seraphine Support · Qué construir y cuándo | Seraphine | 2026-11-03 |
+| Caitlyn ADC · qué construir y cuándo | Caitlyn | 2026-11-04 |
+| Lux medio · qué construir y cuándo | Lux | 2026-11-04 |
+| Lux soporte · qué construir y cuándo | Lux | 2026-11-04 |
+| Mel medio (beta 26.22) · qué construir y cuándo | Mel | 2026-11-04 |
+| Miss Fortune ADC · qué construir y cuándo | MissFortune | 2026-11-04 |
+| Seraphine soporte · qué construir y cuándo | Seraphine | 2026-11-04 |
+| Viktor medio · qué construir y cuándo | Viktor | 2026-11-04 |
+| Caitlyn ADC · Qué construir y cuándo | Caitlyn | 2026-11-04 |
+| Lux Support · Qué construir y cuándo | Lux | 2026-11-04 |
+| Lux Medio · Qué construir y cuándo | Lux | 2026-11-04 |
+| Mel Medio (beta 26.22) · Qué construir y cuándo | Mel | 2026-11-04 |
+| Miss Fortune ADC · Qué construir y cuándo | MissFortune | 2026-11-04 |
+| Seraphine Support · Qué construir y cuándo | Seraphine | 2026-11-04 |
+| Viktor Medio · Qué construir y cuándo | Viktor | 2026-11-04 |
 | Yunara ADC · Qué construir y cuándo | Yunara | 2026-10-27 |
 | Runas de Yunara · qué página elegir | Yunara | 2026-10-28 |
 | Partida 28/10 · Yunara contra Zed y Camille | Yunara | 2026-10-28 |

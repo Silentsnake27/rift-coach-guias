@@ -400,7 +400,8 @@
     "Combo: trampa bajo un enemigo inmovilizado → ataque → E → ataque → Q. Son dos Disparos a la Cabeza sin gastar cargas.",
     "Desde el arbusto las cargas del Disparo a la Cabeza cuentan doble: prepáralo en súbditos y úsalo en el campeón.",
     "Con la misión de bot completa las botas van a su ranura: terminas con 6 legendarios + botas.",
-    "No compres Matakrakens ni Huracán de Runaan: Caitlyn no aprovecha el on-hit."
+    "No compres Matakrakens ni Huracán de Runaan: Caitlyn no aprovecha el on-hit.",
+    "Mel (26.22) ya no refleja tu Q ni tu R: lánzalas cuando haya gastado la W."
   ],
   "builtIn": true,
   "changelog": [
@@ -418,6 +419,11 @@
       "date": "2026-11-03",
       "patch": "26.21",
       "summary": "Perfil rehecho con la guía propia del parche 26.21: Espada de Doran por defecto, Filo de la Tormenta si vuelves con Espadón o contra dive, ruta de Coleccionista, páginas de Triunfo + Coraza Ósea (all-in), Perspicacia (asesinos) y Primer Golpe (contra ADC que escalan), y Corte como runa base."
+    },
+    {
+      "date": "2026-11-04",
+      "patch": "26.22",
+      "summary": "Revisada para 26.22: Caitlyn sin cambios; el Arco de Doran baja a 7 AD (la Espada sigue por defecto); Mel ya no refleja y Thresh hace menos daño."
     }
   ]
 }

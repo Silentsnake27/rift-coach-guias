@@ -2,13 +2,15 @@
 title: Lux Support · Qué construir y cuándo
 champions: Lux
 kind: guía
-date: 2026-11-03
+date: 2026-11-04
 patch: 26.21
 source: Guía propia (Claude) · LoLalytics Esmeralda+ 26.21, Skill Capped y Data Dragon 16.21.1
 url: https://claude.ai/artifact/7aShCmEhztn3QpBtVncgfx
 ---
 
 Lux support es una **maga de daño** que gana la línea con poke y gana partidas con **la Q**: una raíz de 2 s a dos objetivos desde 1.300 unidades. Lo que decides cada partida es el **segundo objeto** (burst, R en cadena o utilidad) y cuánta defensa necesitas contra quien te quiere enganchar.
+
+> **Revisada para el parche 26.22:** Lux no cambia. Mel ya no refleja tu Q ni tu R: lánzalas cuando haya gastado la W (24–30 s de enfriamiento). Thresh hace menos daño (AD base 54, R 200/350/500), un enfrentamiento difícil algo más fácil.
 
 Datos: Parche: **26.21** (cliente 16.21) · Estadísticas: **LoLalytics, Esmeralda+, 163.530 partidas** (2 nov 2026) · WR **51,4%** · pick **6,5%** · ban **4,4%** · tier A+.
 

@@ -287,7 +287,8 @@
     "Tu valor está en acertar la Q (raíz de 2 s a dos objetivos): no la lances a la ola, guárdala para el engage o para proteger a tu ADC.",
     "Pon la E en el arbusto rival antes de pasar: visión y ralentización.",
     "Combo de daño: Q → ataque → E → detonar → R → ataque (la marca se consume dos veces).",
-    "El WR de Robaalmas de Mejai es un sesgo: cómpralo solo yendo por delante."
+    "El WR de Robaalmas de Mejai es un sesgo: cómpralo solo yendo por delante.",
+    "Mel (26.22) ya no refleja tu Q ni tu R: lánzalas cuando haya gastado la W."
   ],
   "builtIn": true,
   "changelog": [
@@ -295,6 +296,11 @@
       "date": "2026-11-03",
       "patch": "26.21",
       "summary": "Perfil creado con la guía propia del parche 26.21: Cometa Arcano con Golpe Bajo y Cazador Definitivo, Concentración Absoluta contra enganche, builds de burst (Luden), Maldad, utilidad (Mandato) y Oposición Celestial contra ganchos."
+    },
+    {
+      "date": "2026-11-04",
+      "patch": "26.22",
+      "summary": "Revisada para 26.22: Lux sin cambios; Mel ya no refleja tu Q ni tu R y Thresh hace menos daño."
     }
   ]
 }

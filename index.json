@@ -6,7 +6,7 @@
       "kind": "profile",
       "id": "caitlyn-adc",
       "file": "profiles/caitlyn-adc.json",
-      "sha256": "2fddfb7ad517f5775fb02a6df62c08da4813a96765cff061815acb8f9996a5a1",
+      "sha256": "eccaeb2a5b162edc9ae8cc8084a3a844cc180f293a52996c49f6ea09bd0633ff",
       "champion": "Caitlyn",
       "title": "Caitlyn ADC · qué construir y cuándo",
       "date": "2026-11-04"
@@ -33,10 +33,10 @@
       "kind": "profile",
       "id": "lux-support",
       "file": "profiles/lux-support.json",
-      "sha256": "bf3830cd870e364301b3bf73f124fb0744e5af34f0d146ed2301c2a27dd7f85a",
+      "sha256": "622d3c479c8e68f36f4c092e31452f5cef641fc190207112a066f121541f7032",
       "champion": "Lux",
       "title": "Lux soporte · qué construir y cuándo",
-      "date": "2026-11-04"
+      "date": "2026-11-05"
     },
     {
       "kind": "profile",
@@ -51,7 +51,7 @@
       "kind": "profile",
       "id": "missfortune-adc",
       "file": "profiles/missfortune-adc.json",
-      "sha256": "b7ae50575469339bcfc0e6554fbb29361c0c4487cd3623bfdde76a4babdd842e",
+      "sha256": "0ce3e2179e37785bbe188b8fd779412d0cc2a726ca84e86c166eb90a5343ed41",
       "champion": "MissFortune",
       "title": "Miss Fortune ADC · qué construir y cuándo",
       "date": "2026-11-04"
@@ -60,10 +60,10 @@
       "kind": "profile",
       "id": "seraphine-support",
       "file": "profiles/seraphine-support.json",
-      "sha256": "dc64a495382dfa5d70747225b25d9bf1816fc5e3072826c1c58412661d6d3bf0",
+      "sha256": "42f78e3019a7b936dbf38d814b34919594890fe5f58c07442ecc99184d35b684",
       "champion": "Seraphine",
       "title": "Seraphine soporte · qué construir y cuándo",
-      "date": "2026-11-04"
+      "date": "2026-11-05"
     },
     {
       "kind": "profile",
@@ -78,7 +78,7 @@
       "kind": "doc",
       "id": "caitlyn-guia-build",
       "file": "docs/caitlyn-guia-build.md",
-      "sha256": "1a75f40631511aacb3a5680071b1b8ba26c34c2c9f021a28ae7dae996c923d4a",
+      "sha256": "27b1c243a693719e8592816d484f6e68f59ecbe942b81f0013912889f7a85c2e",
       "champion": "Caitlyn",
       "title": "Caitlyn ADC · Qué construir y cuándo",
       "date": "2026-11-04"
@@ -96,7 +96,7 @@
       "kind": "doc",
       "id": "lux-guia-build",
       "file": "docs/lux-guia-build.md",
-      "sha256": "6e38d5559d9ebfbdab3940eae98f0e57191bbe0d31872f1c405836f268598dc3",
+      "sha256": "870a1465c21bcaea5cd78adeb1bc0995b95f131e377d54ca5ed5d27a0c6d0ab8",
       "champion": "Lux",
       "title": "Lux Support · Qué construir y cuándo",
       "date": "2026-11-04"
@@ -123,7 +123,7 @@
       "kind": "doc",
       "id": "missfortune-guia-build",
       "file": "docs/missfortune-guia-build.md",
-      "sha256": "ab8e1c8488c8fceaca278d6cacdbfc518eff30a76bbf01cb88782e90f3698022",
+      "sha256": "c16a73e0fb694f52fb1210b4f7c59a995244378fc04cf30460851ad687d504c6",
       "champion": "MissFortune",
       "title": "Miss Fortune ADC · Qué construir y cuándo",
       "date": "2026-11-04"
@@ -132,7 +132,7 @@
       "kind": "doc",
       "id": "seraphine-guia-build",
       "file": "docs/seraphine-guia-build.md",
-      "sha256": "d65744f86b6aedffe5521557e3738061b25ce1bf9d60ef32f1713da6728302fa",
+      "sha256": "21eed414303a277eac2df4e6fe21ccf68d3d9833d34569c2cfc79cca4106ffbc",
       "champion": "Seraphine",
       "title": "Seraphine Support · Qué construir y cuándo",
       "date": "2026-11-04"
@@ -150,10 +150,10 @@
       "kind": "doc",
       "id": "yunara-guia-build",
       "file": "docs/yunara-guia-build.md",
-      "sha256": "54aaec4137935ce5c52639edd401311c7a036954f1cdfa38f79851b928b3a70d",
+      "sha256": "1a013f2238183480735c176a23afdb5d23e35c3eb00bff15a6fb5b502e6cc964",
       "champion": "Yunara",
       "title": "Yunara ADC · Qué construir y cuándo",
-      "date": "2026-10-27"
+      "date": "2026-11-05"
     },
     {
       "kind": "doc",

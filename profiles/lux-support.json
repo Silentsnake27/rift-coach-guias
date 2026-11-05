@@ -5,9 +5,9 @@
   "position": "UTILITY",
   "title": "Lux soporte · qué construir y cuándo",
   "source": {
-    "name": "Guía propia (parche 26.21)",
+    "name": "Guía propia (revisada para 26.22; estadísticas de 26.21)",
     "url": "https://claude.ai/artifact/7aShCmEhztn3QpBtVncgfx",
-    "patch": "26.21",
+    "patch": "26.22",
     "author": "Claude",
     "notes": "Análisis propio a partir de LoLalytics (Esmeralda+, parche 26.21), Skill Capped y Data Dragon 16.21.1. Precios verificados con el cliente."
   },
@@ -288,7 +288,8 @@
     "Pon la E en el arbusto rival antes de pasar: visión y ralentización.",
     "Combo de daño: Q → ataque → E → detonar → R → ataque (la marca se consume dos veces).",
     "El WR de Robaalmas de Mejai es un sesgo: cómpralo solo yendo por delante.",
-    "Mel (26.22) ya no refleja tu Q ni tu R: lánzalas cuando haya gastado la W."
+    "Mel (26.22) ya no refleja tu Q ni tu R: lánzalas cuando haya gastado la W.",
+    "Cambia la mejora del Mapamundi si la partida cambia: por detrás, Zaz'Zak; por delante con tu carry fuerte, Trineo (u Oposición si te persiguen). Yendo 0/5, daño o capacidad de atrapar antes que un defensivo (Dishake)."
   ],
   "builtIn": true,
   "changelog": [
@@ -301,6 +302,11 @@
       "date": "2026-11-04",
       "patch": "26.22",
       "summary": "Revisada para 26.22: Lux sin cambios; Mel ya no refleja tu Q ni tu R y Thresh hace menos daño."
+    },
+    {
+      "date": "2026-11-05",
+      "patch": "26.22",
+      "summary": "Cambiar la mejora del Mapamundi según cómo va la partida (video de Dishake \"Grandes crímenes de itemización\")."
     }
   ]
 }

@@ -3,7 +3,7 @@ title: Lux Support · Qué construir y cuándo
 champions: Lux
 kind: guía
 date: 2026-11-04
-patch: 26.21
+patch: 26.22
 source: Guía propia (Claude) · LoLalytics Esmeralda+ 26.21, Skill Capped y Data Dragon 16.21.1
 url: https://claude.ai/artifact/7aShCmEhztn3QpBtVncgfx
 ---
@@ -117,6 +117,17 @@ Tus hechizos provocan una explosión de 10 (+15% AP) (+3% de la vida máxima) ca
 Cada Q o E da velocidad y vida temporal a ti y a tu aliado más herido. Va con la build de utilidad.
 
 ***52,6% WR***
+
+### Cambiar la mejora según la partida
+
+Idea del video de Dishake: casi ningún soporte cambia la mejora, aunque la partida del minuto 8 no es la del 35. Cambiarla cuesta algo de oro, pero puede ganar la partida.
+
+| La partida va… | Mejora | Por qué |
+|---|---|---|
+| **Por detrás** (pierdes las peleas ordenadas) | {{item:3871}} | Poke y daño: busca atrapar a alguien con la Q en vez de pelear ordenado. |
+| **Por delante** y tu carry va fuerte | {{item:3876}} ({{item:3869}} si te persiguen a ti) | Toca proteger, no más daño. |
+
+Si vas 0/5, no compres un defensivo puro (Zhonya, Banshee) "para no morir": te quedas fuera de la partida. Busca daño o capacidad de atrapar; el defensivo, cuando vayas por delante o contra quien te mata de un combo.
 
 ## Botas
 

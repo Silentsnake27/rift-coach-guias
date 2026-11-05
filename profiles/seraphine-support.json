@@ -5,9 +5,9 @@
   "position": "UTILITY",
   "title": "Seraphine soporte · qué construir y cuándo",
   "source": {
-    "name": "Guía propia (parche 26.21)",
+    "name": "Guía propia (revisada para 26.22; estadísticas de 26.21)",
     "url": "https://claude.ai/artifact/9t3KivnUomzGX2fBBE74AF",
-    "patch": "26.21",
+    "patch": "26.22",
     "author": "Claude",
     "notes": "Análisis propio a partir de LoLalytics (Esmeralda+, parche 26.21), Skill Capped y Data Dragon 16.21.1. Precios verificados con el cliente."
   },
@@ -241,7 +241,8 @@
     "Pokea con la Q simple. Nivel 1 E si tu ADC quiere pelear; Q si vas a pokear.",
     "La R renueva su alcance con cada campeón, también aliados: lánzala a través de tu frontline.",
     "Gasta las cargas del Mapamundi pegando al rival, no rematando súbditos.",
-    "Mel (26.22) ya no refleja tu R, pero su W destruye proyectiles dentro de 400 u: no la lances justo encima de ella mientras la tenga."
+    "Mel (26.22) ya no refleja tu R, pero su W destruye proyectiles dentro de 400 u: no la lances justo encima de ella mientras la tenga.",
+    "Cambia la mejora del Mapamundi si la partida cambia: por detrás, Zaz'Zak (daño y poke para atrapar); por delante con tu ADC fuerte, Tejesueños o Trineo para protegerlo (Dishake)."
   ],
   "builtIn": true,
   "changelog": [
@@ -264,6 +265,11 @@
       "date": "2026-11-04",
       "patch": "26.22",
       "summary": "Revisada para 26.22: Seraphine sin cambios; Mel ya no puede reflejar tu R y Thresh hace menos daño."
+    },
+    {
+      "date": "2026-11-05",
+      "patch": "26.22",
+      "summary": "Cambiar la mejora del Mapamundi según cómo va la partida (video de Dishake \"Grandes crímenes de itemización\")."
     }
   ]
 }

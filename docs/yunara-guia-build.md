@@ -2,11 +2,13 @@
 title: Yunara ADC · Qué construir y cuándo
 champions: Yunara
 kind: guía
-date: 2026-10-27
-patch: 26.21
-source: Video de Gunfire (Challenger, main Yunara) · "Yunara Build Guide: What to Build & When"
+date: 2026-11-05
+patch: 26.22
+source: Video de Gunfire (Challenger, main Yunara) · "Yunara Build Guide: What to Build & When" + ajustes según la partida de Dishake (coach)
 url: https://claude.ai/artifact/YVdiBaXouMAQTRC8XGrNES
 ---
+
+> **Revisada para el parche 26.22 (4 nov):** Yunara no cambia y sus objetos tampoco. El {{item:1086}} baja de 8 a 7 de AD, pero sigue siendo el inicio por defecto: lo que te da es la velocidad de ataque. Thresh hace menos daño (AD base 54, R 200/350/500).
 
 La idea central del video: no copies los mismos 6 objetos cada partida. Elige tus **dos primeros objetos según la partida** y usa el resto para resolver lo que te impide hacer daño o sobrevivir.
 
@@ -66,7 +68,7 @@ La idea central del video: no copies los mismos 6 objetos cada partida. Elige tu
 
 ## Objeto inicial
 
-- {{item:1086}} — **por defecto.** El más consistente; la velocidad de ataque ayuda a tradear y a farmear.
+- {{item:1086}} — **por defecto.** El más consistente (7 AD desde 26.22); la velocidad de ataque ayuda a tradear y a farmear.
 - {{item:1055}} — solo si vas a pelear fuerte en nivel 1.
 - {{item:1120}} — **línea mala.** ~150 de vida, armadura y resistencia mágica. Ejemplo: Nautilus rival y tu soporte es Zilean. También contra ADC de daño mixto (Kai'Sa, Ezreal).
 
@@ -151,6 +153,45 @@ Terminus compensa la falta de velocidad de ataque de C44. {{item:3157}} contra e
 | Build toda AD y quieres dash más corto | {{item:2517}} (raro) |
 | Tu equipo no tiene AP o el rival acumula armadura | {{item:3089}} + {{item:3157}} |
 
+## Ajustes según la partida
+
+Complemento del video de Dishake (coach) "Grandes crímenes de itemización". **No cambia qué construir** (eso es de Gunfire): dice **cuándo** adelantar o retrasar cada objeto según cómo va la partida.
+
+**Momento de la penetración**
+
+| Situación | {{item:3036}} / {{item:3033}} |
+|---|---|
+| Por defecto, aunque tengan un tanque | 4º objeto, como en las builds de Gunfire (Filo 3º). |
+| **En la partida**, 2+ rivales ya compraron objetos de armadura (míralo con Tab) | **Antes**: 3º, por delante de {{item:3031}}. Si no, tu daño no entra (la Jinx sin penetración contra Braum del video). |
+| **Vas por detrás** | **Antes.** El rival que gana tiene más nivel y, por tanto, más armadura base. |
+| Vas muy por delante y son blandos | Puedes retrasarlo a 5º, pero no te duermas. |
+| Hay curación fuerte y nadie lleva antiheal | {{item:3033}}: penetración y antiheal en un solo objeto. |
+
+- **No llegues al minuto ~25 sin penetración.** La armadura sube con el nivel aunque no compren armadura: un luchador con 35 base y +5 por nivel tiene ~120 a nivel 18, unos **54% menos de daño físico**.
+- Tu daño es ~65% físico: la penetración porcentual solo afecta a esa parte. La parte mágica sufre menos (la resistencia mágica casi no sube con el nivel), así que {{item:3302}} sigue siendo buena contra equipos blandos.
+
+**Defensivos según cómo vas** ({{item:3157}}, {{item:6673}}, {{item:3026}})
+
+| Vas… | Qué hacer |
+|---|---|
+| **Por delante** | Defensivo pronto: ya tienes daño y lo que importa es no regalar la partida. |
+| **Por detrás** | Primero tu pico de daño ({{item:3031}}). Si compras defensivo sin daño, te ignoran y no aportas. **Excepción:** un rival que te mata de un combo (asesino 5/0): ahí el defensivo va primero. |
+
+**Botas o primer objeto antes de un objetivo**
+
+- En las peleas **te buscan a ti** → mejora las botas ({{item:3047}} si casi todo su daño es físico, {{item:3111}} si es mágico y con mucho control).
+- **Te ignoran** (pegan a tu mid o a tu jungla) → termina el objeto. Un pico de daño sin que te molesten gana la pelea.
+
+**Componentes**
+
+- Dishake: compra primero la estadística con la que escala tu campeón. **Para Yunara se mantiene el orden de Gunfire**: su daño sale de la velocidad de ataque, el golpe y el crítico, por eso Matakrakens empieza por {{item:1043}}. En C44 y Yun Tal el componente de daño ({{item:1037}}, {{item:1038}}) ya va primero.
+
+**Antes de comprar, pulsa Tab**
+
+- ¿Su frontline ya tiene 2-3 objetos de armadura? → penetración.
+- ¿Qué lleva su support? {{item:3110}} o {{item:3143}} frenan tu velocidad de ataque y tu crítico.
+- ¿Quién te está matando? Ese es el que decide tu defensivo.
+
 ## Plan de práctica
 
 **En la pantalla de carga**
@@ -166,7 +207,7 @@ Terminus compensa la falta de velocidad de ataque de C44. {{item:3157}} contra e
 
 **Después del 1er objeto**
 1. Zeal casi siempre: Runaan si vas a pegar a varios.
-2. Revisa la vida de sus tanques para Lord Dominik o Terminus.
+2. Tab: armadura y vida de su frontline → Lord Dominik antes, o Terminus si son blandos. Vas por detrás → penetración antes. Nunca al minuto 25 sin ella.
 3. ¿Hay curación y nadie compró antiheal? → Recordatorio Mortal.
 4. ¿Qué te está matando? → el último objeto lo responde.
 
@@ -177,4 +218,4 @@ Terminus compensa la falta de velocidad de ataque de C44. {{item:3157}} contra e
 | 26.20 | Q: daño base 5/10/15/20/25 → 3/8/13/18/23. Las ralentizaciones de la W ya no se acumulan. | Nerf pequeño al daño temprano. Las builds siguen igual. |
 | 26.21 | {{item:3008}}: 1000 → 1100 de oro. Yunara sin cambios. | Siguen siendo las botas recomendadas. |
 
-**Fuentes:** video de Gunfire (twitch.tv/gunfireadc); [RiftPatchNotes · Yunara](https://www.riftpatchnotes.com/lol/champion/yunara); [Gameriv · parche 26.21](https://gameriv.com/league-of-legends-patch-26-21-notes-all-buffs-nerfs-and-more/); [U.GG · Yunara](https://u.gg/lol/champions/yunara/build); [Liquipedia · Yunara](https://liquipedia.net/leagueoflegends/Yunara).
+**Fuentes:** video de Gunfire (twitch.tv/gunfireadc); [Dishake · Grandes crímenes de itemización](https://www.youtube.com/watch?v=Vjez_TE7NPY) (momento de la penetración y defensivos); [RiftPatchNotes · Yunara](https://www.riftpatchnotes.com/lol/champion/yunara); [Gameriv · parche 26.21](https://gameriv.com/league-of-legends-patch-26-21-notes-all-buffs-nerfs-and-more/); [U.GG · Yunara](https://u.gg/lol/champions/yunara/build); [Liquipedia · Yunara](https://liquipedia.net/leagueoflegends/Yunara).

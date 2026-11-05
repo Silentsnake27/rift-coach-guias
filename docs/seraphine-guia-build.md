@@ -3,7 +3,7 @@ title: Seraphine Support · Qué construir y cuándo
 champions: Seraphine
 kind: guía
 date: 2026-11-04
-patch: 26.21
+patch: 26.22
 source: Guía propia (Claude) · LoLalytics Esmeralda+ 26.21, Skill Capped y Data Dragon 16.21.1
 url: https://claude.ai/artifact/9t3KivnUomzGX2fBBE74AF
 ---
@@ -124,6 +124,17 @@ Reduce el daño que recibes un 25% (a distancia) durante 2 s tras recibir daño 
 *51,3% WR*
 
 Canción de Sangre (2,3% de partidas, 54,0%) potencia tu siguiente ataque tras un hechizo y aumenta el daño que recibe el objetivo; muestra pequeña y pensada para soportes de ataque.
+
+### Cambiar la mejora según la partida
+
+Idea del video de Dishake: casi ningún soporte cambia la mejora, aunque la partida del minuto 8 no es la del 35. Cambiarla cuesta algo de oro, pero puede ganar la partida.
+
+| La partida va… | Mejora | Por qué |
+|---|---|---|
+| **Por detrás** (pierdes las peleas ordenadas) | {{item:3871}} | Daño y poke para atrapar a alguien con la E y forzar peleas cortas. |
+| **Por delante** y tu ADC va fuerte | {{item:3870}} o {{item:3876}} | Ya no hace falta más daño: protégelo para que haga el suyo. |
+
+Antes de comprar, mira con Tab qué llevan los demás soportes: condicionan las peleas.
 
 ## Botas
 

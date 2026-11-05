@@ -3,7 +3,7 @@ title: Miss Fortune ADC · Qué construir y cuándo
 champions: MissFortune
 kind: guía
 date: 2026-11-04
-patch: 26.21
+patch: 26.22
 source: Guía propia (Claude) · LoLalytics Esmeralda+ 26.21, Skill Capped y Data Dragon 16.21.1
 url: https://claude.ai/artifact/8HyPcoYFaQmmpbEGuTaCeV
 ---

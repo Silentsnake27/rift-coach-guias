@@ -15,7 +15,7 @@ No edites estos archivos a mano: se generan desde el repo de la app con `node sc
 | Lux medio · qué construir y cuándo | Lux | 2026-11-04 |
 | Lux soporte · qué construir y cuándo | Lux | 2026-11-05 |
 | Mel medio (beta 26.22) · qué construir y cuándo | Mel | 2026-11-04 |
-| Miss Fortune ADC · qué construir y cuándo | MissFortune | 2026-11-04 |
+| Miss Fortune ADC · qué construir y cuándo | MissFortune | 2026-11-05 |
 | Seraphine soporte · qué construir y cuándo | Seraphine | 2026-11-05 |
 | Viktor medio · qué construir y cuándo | Viktor | 2026-11-04 |
 | Caitlyn ADC · Qué construir y cuándo | Caitlyn | 2026-11-04 |

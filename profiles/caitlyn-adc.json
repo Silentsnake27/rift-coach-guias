@@ -1,0 +1,429 @@
+{
+  "format": 1,
+  "id": "caitlyn-adc",
+  "champion": "Caitlyn",
+  "position": "BOTTOM",
+  "title": "Caitlyn ADC · qué construir y cuándo",
+  "source": {
+    "name": "Guía propia (revisada para 26.22; estadísticas de 26.21)",
+    "url": "https://claude.ai/artifact/MXUTns8BzGS5XPc8spTc1Q",
+    "patch": "26.22",
+    "author": "Claude",
+    "notes": "Análisis propio a partir de LoLalytics (Esmeralda+, parche 26.21), Skill Capped y Data Dragon 16.21.1. Precios verificados con el cliente."
+  },
+  "runePages": [
+    {
+      "key": "allin",
+      "name": "vs All-in (Triunfo + Valor)",
+      "when": "laneAllIn",
+      "primary": 8000,
+      "sub": 8400,
+      "perks": [
+        8008,
+        9111,
+        9103,
+        8017,
+        8473,
+        8453,
+        5005,
+        5008,
+        5011
+      ],
+      "reason": "ADC o soporte rival de all-in (Draven, Samira, Leona, Nautilus): Triunfo cura en cada derribo y Coraza Ósea recorta su combo de nivel 2–3."
+    },
+    {
+      "key": "fleet",
+      "name": "Sobre la Marcha (vs poke)",
+      "when": {
+        "any": [
+          "lanePoke",
+          "rangedHeavy4"
+        ]
+      },
+      "primary": 8000,
+      "sub": 8200,
+      "perks": [
+        8021,
+        8009,
+        9103,
+        8017,
+        8233,
+        8236,
+        5005,
+        5008,
+        5001
+      ],
+      "reason": "Línea de poke o equipo casi todo a distancia: no vas a encadenar ataques para Cadencia Letal. Sobre la Marcha da curación y velocidad para esquivar."
+    },
+    {
+      "key": "assassin",
+      "name": "vs Asesinos (Perspicacia)",
+      "when": "assassins",
+      "primary": 8000,
+      "sub": 8300,
+      "perks": [
+        8008,
+        8009,
+        9103,
+        8017,
+        8321,
+        8347,
+        5005,
+        5008,
+        5001
+      ],
+      "reason": "Asesinos o dive de otras líneas: Perspicacia Cósmica acorta Destello y Barrera."
+    },
+    {
+      "key": "firststrike",
+      "name": "Primer Golpe (dominar la línea)",
+      "when": {
+        "any": [
+          "enemy:Smolder",
+          "enemy:Jinx",
+          "enemy:Yunara",
+          "enemy:Vayne",
+          "enemy:KogMaw"
+        ]
+      },
+      "primary": 8300,
+      "sub": 8200,
+      "perks": [
+        8369,
+        8304,
+        8345,
+        8347,
+        8233,
+        8236,
+        5005,
+        5008,
+        5001
+      ],
+      "reason": "Contra un ADC que escala (Smolder, Jinx, Yunara, Vayne, Kog'Maw): tu alcance abre los combates y Primer Golpe convierte el poke en oro. 52,0% de victorias en 7,5% de partidas."
+    },
+    {
+      "key": "squishy",
+      "name": "Cadencia Letal · Golpe de Gracia",
+      "when": {
+        "not": "tanks"
+      },
+      "primary": 8000,
+      "sub": 8200,
+      "perks": [
+        8008,
+        8009,
+        9103,
+        8014,
+        8233,
+        8236,
+        5005,
+        5008,
+        5001
+      ],
+      "reason": "Equipo rival sin tanques: Golpe de Gracia remata mejor a los blandos."
+    },
+    {
+      "key": "std",
+      "name": "Cadencia Letal",
+      "primary": 8000,
+      "sub": 8200,
+      "perks": [
+        8008,
+        8009,
+        9103,
+        8017,
+        8233,
+        8236,
+        5005,
+        5008,
+        5001
+      ],
+      "reason": "Caitlyn casi no gana velocidad de ataque por nivel: Cadencia Letal le da más disparos. Corte rinde algo más que Golpe de Gracia (50,9% vs 50,1%) porque casi siempre hay un tanque o luchador."
+    }
+  ],
+  "spells": [
+    {
+      "when": {
+        "any": [
+          "enemyAdcAllIn",
+          "assassins2"
+        ]
+      },
+      "ids": [
+        4,
+        3
+      ],
+      "reason": "Extenuación: ADC rival de all-in (Draven, Samira, Nilah, Kalista) o varios asesinos."
+    },
+    {
+      "when": "heavyCC",
+      "ids": [
+        4,
+        1
+      ],
+      "reason": "Purificación: control que se limpia (Morgana, Lux, Seraphine, Ashe). No sirve contra derribos ni supresión."
+    },
+    {
+      "ids": [
+        4,
+        21
+      ],
+      "reason": "Destello + Barrera: lo estándar (85% de partidas)."
+    }
+  ],
+  "start": [
+    {
+      "when": {
+        "all": [
+          "engageSupport",
+          {
+            "not": "allyEnchanter"
+          }
+        ]
+      },
+      "items": [
+        1120,
+        2003
+      ],
+      "reason": "Casco de Doran: soporte rival de enganche y el tuyo no te protege."
+    },
+    {
+      "when": "allyEnchanter",
+      "items": [
+        1086,
+        2003,
+        2003
+      ],
+      "reason": "Arco de Doran y 2 pociones: con un encantador al lado vas a hacer intercambios largos con Cadencia Letal."
+    },
+    {
+      "items": [
+        1055,
+        2003
+      ],
+      "reason": "Espada de Doran: el AD alimenta Disparo a la Cabeza y Q, y la vida te salva en niveles 2–3. En 26.22 el Arco baja a 7 AD."
+    }
+  ],
+  "boots": [
+    {
+      "when": {
+        "all": [
+          "enemyAdcAllIn",
+          "adHeavy"
+        ]
+      },
+      "item": 3047,
+      "reason": "Punteras de Acero: ADC rival de all-in con mucho daño físico."
+    },
+    {
+      "when": {
+        "all": [
+          "heavyCC",
+          "apHeavy"
+        ]
+      },
+      "item": 3111,
+      "reason": "Botas de Mercurio: mucho control mágico."
+    },
+    {
+      "when": "lanePoke",
+      "item": 3008,
+      "reason": "Grebas Glotonas contra poke: omnivampirismo que sube con cada derribo."
+    },
+    {
+      "when": {
+        "any": [
+          "enemy:Ashe",
+          "enemy:Nasus",
+          "enemy:Zilean"
+        ]
+      },
+      "item": 3009,
+      "reason": "Botas de Rapidez: muchas ralentizaciones rivales."
+    },
+    {
+      "item": 3006,
+      "reason": "Grebas del Berserker: 30% de velocidad de ataque (83% de partidas)."
+    }
+  ],
+  "builds": [
+    {
+      "name": "Filo de la Tormenta (dive o vuelta con Espadón)",
+      "when": {
+        "any": [
+          "assassins2",
+          {
+            "text": "vuelves con 1.300+ para el Espadón"
+          }
+        ]
+      },
+      "order": [
+        3095,
+        3031,
+        2523,
+        3036,
+        3072,
+        3026
+      ],
+      "reason": "Si vuelves con 1.300+ para el Espadón o el rival tiene dive: Filo de la Tormenta da las mejores estadísticas y 45% de velocidad en el ataque energizado (53,2% de victorias de primero)."
+    },
+    {
+      "name": "C44 vs tanques",
+      "when": "tanks2",
+      "order": [
+        2523,
+        3031,
+        3036,
+        3094,
+        3026,
+        3072
+      ],
+      "reason": "Hexóptica C44 → Filo del Infinito → Lord Dominik 3º: varios tanques o luchadores con vida."
+    },
+    {
+      "name": "C44 vs alcance",
+      "when": {
+        "any": [
+          "rangedHeavy4",
+          "lanePoke"
+        ]
+      },
+      "order": [
+        2523,
+        3031,
+        3094,
+        3036,
+        3072,
+        3026
+      ],
+      "reason": "Cañón de Fuego Rápido 3º: el rival te iguala en alcance o pokea. Lleva tus energizados a 800."
+    },
+    {
+      "name": "Coleccionista (bola de nieve)",
+      "when": {
+        "text": "vas ganando la línea"
+      },
+      "order": [
+        6676,
+        3031,
+        3094,
+        3036,
+        3026,
+        3139
+      ],
+      "reason": "Vas ganando la línea y el rival es blando: la letalidad sube Q y R pronto y el Cañón te deja asediar."
+    },
+    {
+      "name": "C44 (estándar)",
+      "order": [
+        2523,
+        3031,
+        3036,
+        3094,
+        3026,
+        3072
+      ],
+      "reason": "Hexóptica C44: la opción barata y segura; con 650 de alcance casi siempre pegas al 10% máximo de su pasiva. Luego Filo del Infinito y Lord Dominik o Cañón según el rival."
+    }
+  ],
+  "situational": [
+    {
+      "when": "healers",
+      "item": 3033,
+      "reason": "Recordatorio Mortal: curación rival, solo si nadie de tu equipo lleva antiheal."
+    },
+    {
+      "when": {
+        "any": [
+          "suppression",
+          "heavyCC"
+        ]
+      },
+      "item": 3139,
+      "reason": "Cimitarra Mercurial: supresión o control que te mata (Malzahar, Skarner, Warwick)."
+    },
+    {
+      "when": "assassins",
+      "item": 6673,
+      "reason": "Arcoescudo Inmortal: asesinos o dive que te alcanzan."
+    },
+    {
+      "when": "apHeavy",
+      "item": 3156,
+      "reason": "Fauces de Malmortius: burst mágico."
+    },
+    {
+      "when": "meleeHeavy",
+      "item": 3046,
+      "reason": "Bailarín Espectral: melee que te persiguen y quieres kitear."
+    },
+    {
+      "when": "engageSupport",
+      "item": 3814,
+      "reason": "Filo de la Noche: un enganche o una habilidad clave decide la pelea."
+    },
+    {
+      "when": "lanePoke",
+      "item": 3072,
+      "reason": "La Sanguinaria: sustain contra poke."
+    },
+    {
+      "item": 3026,
+      "reason": "Ángel Guardián: 6º objeto por defecto."
+    }
+  ],
+  "extras": [
+    {
+      "title": "Tercer objeto (tras Filo del Infinito)",
+      "choices": [
+        {
+          "when": "tanks",
+          "item": 3036,
+          "reason": "Lord Dominik: el rival compra armadura o tiene tanques con vida."
+        },
+        {
+          "when": "rangedHeavy",
+          "item": 3094,
+          "reason": "Cañón de Fuego Rápido: equipos de largo alcance o para asediar."
+        },
+        {
+          "when": "healers",
+          "item": 3033,
+          "reason": "Recordatorio Mortal: curación fuerte y nadie lleva antiheal."
+        }
+      ]
+    }
+  ],
+  "skillOrder": "Q > W > E · R en 6, 11 y 16 (Q en 1, E en 2, W en 3)",
+  "notes": [
+    "El oro de tu primera vuelta decide el primer objeto: 1.300+ → Espadón (Filo de la Tormenta); 1.225 → Carcaj o Picacha + Espada Larga (C44); ≈1.000 ganando → Puñal Serrado (Coleccionista).",
+    "Combo: trampa bajo un enemigo inmovilizado → ataque → E → ataque → Q. Son dos Disparos a la Cabeza sin gastar cargas.",
+    "Desde el arbusto las cargas del Disparo a la Cabeza cuentan doble: prepáralo en súbditos y úsalo en el campeón.",
+    "Con la misión de bot completa las botas van a su ranura: terminas con 6 legendarios + botas.",
+    "No compres Matakrakens ni Huracán de Runaan: Caitlyn no aprovecha el on-hit.",
+    "Mel (26.22) ya no refleja tu Q ni tu R: lánzalas cuando haya gastado la W."
+  ],
+  "builtIn": true,
+  "changelog": [
+    {
+      "date": "2026-10-28",
+      "patch": "26.21",
+      "summary": "Perfil creado con la guía de Skill Capped del parche 26.21 y contrastado con las estadísticas de OP.GG. Pies Veloces contra equipos a distancia, Espada o Arco de Doran según la línea, Grebas Glotonas contra poke y Hexóptica C44 con orden distinto contra tanques o rango."
+    },
+    {
+      "date": "2026-10-28",
+      "patch": "26.21",
+      "summary": "La fuente pasa a citar solo Skill Capped: la pestaña Guía ya no se mezcla con las estadísticas de OP.GG."
+    },
+    {
+      "date": "2026-11-03",
+      "patch": "26.21",
+      "summary": "Perfil rehecho con la guía propia del parche 26.21: Espada de Doran por defecto, Filo de la Tormenta si vuelves con Espadón o contra dive, ruta de Coleccionista, páginas de Triunfo + Coraza Ósea (all-in), Perspicacia (asesinos) y Primer Golpe (contra ADC que escalan), y Corte como runa base."
+    },
+    {
+      "date": "2026-11-04",
+      "patch": "26.22",
+      "summary": "Revisada para 26.22: Caitlyn sin cambios; el Arco de Doran baja a 7 AD (la Espada sigue por defecto); Mel ya no refleja y Thresh hace menos daño."
+    }
+  ]
+}

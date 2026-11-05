@@ -51,10 +51,10 @@
       "kind": "profile",
       "id": "missfortune-adc",
       "file": "profiles/missfortune-adc.json",
-      "sha256": "0ce3e2179e37785bbe188b8fd779412d0cc2a726ca84e86c166eb90a5343ed41",
+      "sha256": "bbf768356d652f72c8a87c7e23b25a29842fbdc4c1f736d447ac2d1c70c859a0",
       "champion": "MissFortune",
       "title": "Miss Fortune ADC · qué construir y cuándo",
-      "date": "2026-11-04"
+      "date": "2026-11-05"
     },
     {
       "kind": "profile",
@@ -123,7 +123,7 @@
       "kind": "doc",
       "id": "missfortune-guia-build",
       "file": "docs/missfortune-guia-build.md",
-      "sha256": "c16a73e0fb694f52fb1210b4f7c59a995244378fc04cf30460851ad687d504c6",
+      "sha256": "fa773ad9f7f50231c28dc4cfec771c6917490906babd37296dc26b27ce646986",
       "champion": "MissFortune",
       "title": "Miss Fortune ADC · Qué construir y cuándo",
       "date": "2026-11-04"
@@ -150,7 +150,7 @@
       "kind": "doc",
       "id": "yunara-guia-build",
       "file": "docs/yunara-guia-build.md",
-      "sha256": "1a013f2238183480735c176a23afdb5d23e35c3eb00bff15a6fb5b502e6cc964",
+      "sha256": "bb7f3b19bbcc14ccd8259b60b8c018a5134614ab0ddc188e9f822f5a30bf4854",
       "champion": "Yunara",
       "title": "Yunara ADC · Qué construir y cuándo",
       "date": "2026-11-05"

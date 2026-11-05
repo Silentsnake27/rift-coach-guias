@@ -1,0 +1,312 @@
+{
+  "format": 1,
+  "id": "lux-support",
+  "champion": "Lux",
+  "position": "UTILITY",
+  "title": "Lux soporte · qué construir y cuándo",
+  "source": {
+    "name": "Guía propia (revisada para 26.22; estadísticas de 26.21)",
+    "url": "https://claude.ai/artifact/7aShCmEhztn3QpBtVncgfx",
+    "patch": "26.22",
+    "author": "Claude",
+    "notes": "Análisis propio a partir de LoLalytics (Esmeralda+, parche 26.21), Skill Capped y Data Dragon 16.21.1. Precios verificados con el cliente."
+  },
+  "runePages": [
+    {
+      "key": "engage",
+      "name": "Cometa · Concentración Absoluta (vs enganche)",
+      "when": "engageSupport",
+      "primary": 8200,
+      "sub": 8300,
+      "perks": [
+        8229,
+        8226,
+        8233,
+        8237,
+        8345,
+        8347,
+        5008,
+        5008,
+        5001
+      ],
+      "reason": "Soporte rival de enganche (Nautilus, Leona, Rell, Blitzcrank): pokeas por encima del 70% de vida, Galletas te mantiene sana y Perspicacia acerca el Destello."
+    },
+    {
+      "key": "long",
+      "name": "Cometa · Tormenta (partida larga)",
+      "when": {
+        "text": "ADC rival que escala con un encantador"
+      },
+      "primary": 8200,
+      "sub": 8100,
+      "perks": [
+        8229,
+        8226,
+        8210,
+        8236,
+        8126,
+        8106,
+        5008,
+        5008,
+        5001
+      ],
+      "reason": "ADC rival que escala con encantador (Smolder, Vayne + Soraka o Janna): Tormenta Creciente da más AP tardío."
+    },
+    {
+      "key": "harvest",
+      "name": "Cosecha Oscura",
+      "when": {
+        "text": "vas por daño y tu ADC es de poke"
+      },
+      "primary": 8100,
+      "sub": 8200,
+      "perks": [
+        8128,
+        8126,
+        8140,
+        8106,
+        8226,
+        8210,
+        5008,
+        5008,
+        5001
+      ],
+      "reason": "Vas por daño y vas a pelear en grupo: mismo rendimiento que Cometa (51,4%)."
+    },
+    {
+      "key": "std",
+      "name": "Cometa Arcano",
+      "primary": 8200,
+      "sub": 8100,
+      "perks": [
+        8229,
+        8226,
+        8210,
+        8237,
+        8126,
+        8106,
+        5008,
+        5008,
+        5001
+      ],
+      "reason": "La Q enraíza y la E ralentiza: el Cometa casi nunca falla. Golpe Bajo se activa con cada raíz y Cazador Definitivo acorta la R."
+    }
+  ],
+  "spells": [
+    {
+      "when": {
+        "any": [
+          "assassins",
+          "enemyAdcAllIn"
+        ]
+      },
+      "ids": [
+        4,
+        3
+      ],
+      "reason": "Extenuación: asesinos o ADC de all-in rival."
+    },
+    {
+      "when": {
+        "text": "línea de poke que vas a ganar"
+      },
+      "ids": [
+        4,
+        14
+      ],
+      "reason": "Ignición: línea de poke que vas a ganar y quieres matar en nivel 2–3."
+    },
+    {
+      "ids": [
+        4,
+        7
+      ],
+      "reason": "Destello + Curación: el más seguro (51,9%)."
+    }
+  ],
+  "start": [
+    {
+      "items": [
+        3865,
+        2003,
+        2003
+      ],
+      "reason": "Mapamundi y 2 pociones. Primera vuelta: Centinela de Control + Capítulo Perdido (o Orbe del Olvido contra Soraka)."
+    }
+  ],
+  "boots": [
+    {
+      "when": {
+        "all": [
+          "heavyCC",
+          "apHeavy"
+        ]
+      },
+      "item": 3111,
+      "reason": "Botas de Mercurio: mucho control mágico sobre ti."
+    },
+    {
+      "when": {
+        "any": [
+          "ally:Caitlyn",
+          "ally:Yunara",
+          "ally:Jinx",
+          "ally:KogMaw",
+          "ally:Vayne"
+        ]
+      },
+      "item": 3158,
+      "reason": "Botas Jonias de la Lucidez: build de utilidad; haste y Destello antes."
+    },
+    {
+      "item": 3020,
+      "reason": "Botas del Hechicero: 12 de penetración mágica (75% de partidas)."
+    }
+  ],
+  "builds": [
+    {
+      "name": "Utilidad (tu ADC es el carry)",
+      "when": {
+        "any": [
+          "ally:Caitlyn",
+          "ally:Yunara",
+          "ally:Jinx",
+          "ally:KogMaw",
+          "ally:Vayne"
+        ]
+      },
+      "order": [
+        3876,
+        4005,
+        2065,
+        4628,
+        3157
+      ],
+      "reason": "Mandato Imperial: cada raíz de Q marca al objetivo con 7% más de daño de todo tu equipo (54,5% de victorias de 3º). Trineo y Shurelya para mover a tu ADC."
+    },
+    {
+      "name": "Burst con Oposición (te enganchan)",
+      "when": "engageSupport",
+      "order": [
+        3869,
+        6655,
+        4646,
+        3102,
+        4645
+      ],
+      "reason": "Soporte rival de enganche: Oposición Celestial reduce el daño que recibes y el Velo de la Banshee bloquea el gancho."
+    },
+    {
+      "name": "Maldad (peleas en grupo)",
+      "when": {
+        "text": "composición agrupada, peleas de objetivo"
+      },
+      "order": [
+        3871,
+        3118,
+        4628,
+        4645,
+        3089
+      ],
+      "reason": "Maldad da 20 de haste de definitiva (R cada ≈33 s) y quema bajo cada objetivo; Enfoque al Horizonte da 10% de daño a 600+ unidades."
+    },
+    {
+      "name": "Burst (estándar)",
+      "order": [
+        3871,
+        6655,
+        4646,
+        4645,
+        3089
+      ],
+      "reason": "Espina de Zaz'Zak → Eco de Luden → Descarga Tormentosa → Lumbría: poke enorme en línea y la R remata a quien queda por debajo del 40%."
+    }
+  ],
+  "situational": [
+    {
+      "when": "assassins",
+      "item": 3157,
+      "reason": "Reloj de Arena de Zhonya: asesinos o dive sobre ti."
+    },
+    {
+      "when": "engageSupport",
+      "item": 3102,
+      "reason": "Velo de la Banshee: su escudo bloquea el gancho (Blitzcrank, Thresh, Nautilus)."
+    },
+    {
+      "when": "healers",
+      "item": 3165,
+      "reason": "Morellonomicón: curación rival y nadie lleva antiheal (Orbe del Olvido temprano)."
+    },
+    {
+      "when": "tanks2",
+      "item": 3135,
+      "reason": "Báculo del Vacío: el rival compra resistencia mágica."
+    },
+    {
+      "when": "heavyCC",
+      "item": 3222,
+      "reason": "Bendición de Mikael: control duro sobre tu ADC."
+    },
+    {
+      "item": 3137,
+      "reason": "Criptorretoño: más daño con penetración y haste."
+    },
+    {
+      "item": 3089,
+      "reason": "Sombrero Mortífero de Rabadon: vas por delante y quieres cerrar."
+    }
+  ],
+  "extras": [
+    {
+      "title": "Segundo objeto (define tu partida)",
+      "choices": [
+        {
+          "item": 6655,
+          "reason": "Eco de Luden: burst y poke; daño base alto desde que lo compras."
+        },
+        {
+          "when": {
+            "text": "peleas de objetivo"
+          },
+          "item": 3118,
+          "reason": "Maldad: peleas en grupo, R en cadena."
+        },
+        {
+          "when": {
+            "text": "utilidad"
+          },
+          "item": 4005,
+          "reason": "Mandato Imperial: tu ADC es el carry."
+        }
+      ]
+    }
+  ],
+  "skillOrder": "E > Q > W · R en 6, 11 y 16 (E en 1, Q en 2, W en 4)",
+  "notes": [
+    "Tu valor está en acertar la Q (raíz de 2 s a dos objetivos): no la lances a la ola, guárdala para el engage o para proteger a tu ADC.",
+    "Pon la E en el arbusto rival antes de pasar: visión y ralentización.",
+    "Combo de daño: Q → ataque → E → detonar → R → ataque (la marca se consume dos veces).",
+    "El WR de Robaalmas de Mejai es un sesgo: cómpralo solo yendo por delante.",
+    "Mel (26.22) ya no refleja tu Q ni tu R: lánzalas cuando haya gastado la W.",
+    "Cambia la mejora del Mapamundi si la partida cambia: por detrás, Zaz'Zak; por delante con tu carry fuerte, Trineo (u Oposición si te persiguen). Yendo 0/5, daño o capacidad de atrapar antes que un defensivo (Dishake)."
+  ],
+  "builtIn": true,
+  "changelog": [
+    {
+      "date": "2026-11-03",
+      "patch": "26.21",
+      "summary": "Perfil creado con la guía propia del parche 26.21: Cometa Arcano con Golpe Bajo y Cazador Definitivo, Concentración Absoluta contra enganche, builds de burst (Luden), Maldad, utilidad (Mandato) y Oposición Celestial contra ganchos."
+    },
+    {
+      "date": "2026-11-04",
+      "patch": "26.22",
+      "summary": "Revisada para 26.22: Lux sin cambios; Mel ya no refleja tu Q ni tu R y Thresh hace menos daño."
+    },
+    {
+      "date": "2026-11-05",
+      "patch": "26.22",
+      "summary": "Cambiar la mejora del Mapamundi según cómo va la partida (video de Dishake \"Grandes crímenes de itemización\")."
+    }
+  ]
+}

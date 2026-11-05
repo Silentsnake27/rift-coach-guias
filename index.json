@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "updated": "2026-11-04",
+  "updated": "2026-11-05",
   "entries": [
     {
       "kind": "profile",
@@ -9,6 +9,15 @@
       "sha256": "2fddfb7ad517f5775fb02a6df62c08da4813a96765cff061815acb8f9996a5a1",
       "champion": "Caitlyn",
       "title": "Caitlyn ADC · qué construir y cuándo",
+      "date": "2026-11-04"
+    },
+    {
+      "kind": "profile",
+      "id": "jinx-adc",
+      "file": "profiles/jinx-adc.json",
+      "sha256": "bfe6f9f13664adfb088deac1494f5a29879fa607ee90a39c7c88f8fcda7b1e8b",
+      "champion": "Jinx",
+      "title": "Jinx ADC · qué construir y cuándo",
       "date": "2026-11-04"
     },
     {
@@ -72,6 +81,15 @@
       "sha256": "1a75f40631511aacb3a5680071b1b8ba26c34c2c9f021a28ae7dae996c923d4a",
       "champion": "Caitlyn",
       "title": "Caitlyn ADC · Qué construir y cuándo",
+      "date": "2026-11-04"
+    },
+    {
+      "kind": "doc",
+      "id": "jinx-guia-build",
+      "file": "docs/jinx-guia-build.md",
+      "sha256": "70350d5d4e1b119985fe38c6781d9aed9bd195bb9c6b677e16bab2a24f511ef2",
+      "champion": "Jinx",
+      "title": "Jinx ADC · Qué construir y cuándo",
       "date": "2026-11-04"
     },
     {

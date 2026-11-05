@@ -11,6 +11,7 @@ No edites estos archivos a mano: se generan desde el repo de la app con `node sc
 | Guía | Campeón | Fecha |
 |---|---|---|
 | Caitlyn ADC · qué construir y cuándo | Caitlyn | 2026-11-04 |
+| Jinx ADC · qué construir y cuándo | Jinx | 2026-11-04 |
 | Lux medio · qué construir y cuándo | Lux | 2026-11-04 |
 | Lux soporte · qué construir y cuándo | Lux | 2026-11-04 |
 | Mel medio (beta 26.22) · qué construir y cuándo | Mel | 2026-11-04 |
@@ -18,6 +19,7 @@ No edites estos archivos a mano: se generan desde el repo de la app con `node sc
 | Seraphine soporte · qué construir y cuándo | Seraphine | 2026-11-04 |
 | Viktor medio · qué construir y cuándo | Viktor | 2026-11-04 |
 | Caitlyn ADC · Qué construir y cuándo | Caitlyn | 2026-11-04 |
+| Jinx ADC · Qué construir y cuándo | Jinx | 2026-11-04 |
 | Lux Support · Qué construir y cuándo | Lux | 2026-11-04 |
 | Lux Medio · Qué construir y cuándo | Lux | 2026-11-04 |
 | Mel Medio (beta 26.22) · Qué construir y cuándo | Mel | 2026-11-04 |

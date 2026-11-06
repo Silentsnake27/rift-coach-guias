@@ -1,0 +1,265 @@
+{
+  "format": 1,
+  "id": "ashe-adc",
+  "champion": "Ashe",
+  "position": "BOTTOM",
+  "title": "Ashe ADC · qué construir y cuándo",
+  "source": {
+    "name": "Guía propia (parche 26.22)",
+    "patch": "26.22",
+    "author": "Claude",
+    "notes": "Investigación con LoLalytics, OP.GG, Mobalytics, U.GG, Blitz, Skill Capped, Turbosmurfs y MetaSRC (26.21–26.22), notas oficiales y League Wiki. Precios verificados con el cliente."
+  },
+  "runePages": [
+    {
+      "key": "poke",
+      "name": "Cadencia Letal + Galletas (línea de poke)",
+      "when": "lanePoke",
+      "primary": 8000,
+      "sub": 8300,
+      "perks": [
+        8008,
+        8009,
+        9103,
+        8017,
+        8345,
+        8410,
+        5005,
+        5008,
+        5011
+      ],
+      "reason": "Línea de poke (Ziggs, Caitlyn con Zyra, Thresh): Entrega de Galletas te devuelve vida y maná, y la vida plana aguanta el desgaste."
+    },
+    {
+      "key": "hard",
+      "name": "Cadencia Letal + Reembolso (línea de all-in)",
+      "when": "laneAllIn",
+      "primary": 8000,
+      "sub": 8300,
+      "perks": [
+        8008,
+        8009,
+        9103,
+        8017,
+        8321,
+        8410,
+        5005,
+        5008,
+        5011
+      ],
+      "reason": "Línea de all-in (Draven, Lucian, Samira, Tristana): vida plana para el nivel 2–3; Velocidad de Aproximación para alcanzar o huir de quien ralentizas."
+    },
+    {
+      "key": "std",
+      "name": "Cadencia Letal + Inspiración",
+      "primary": 8000,
+      "sub": 8300,
+      "perks": [
+        8008,
+        8009,
+        9103,
+        8017,
+        8321,
+        8410,
+        5005,
+        5008,
+        5001
+      ],
+      "reason": "Cadencia Letal en el 96% de partidas: tu Q acumula sus cargas más rápido que ningún otro ADC. Linaje mejor que Celeridad (52,9% contra 48,6%): la build ya da velocidad de ataque. Velocidad de Aproximación aprovecha tu ralentización."
+    }
+  ],
+  "spells": [
+    {
+      "when": "heavyCC",
+      "ids": [
+        4,
+        1
+      ],
+      "reason": "Purificación: Leona, Nautilus, Morgana o mucho control que se limpia (no sirve contra supresión ni derribos)."
+    },
+    {
+      "when": {
+        "all": [
+          "laneAllIn",
+          {
+            "not": "allyEnchanter"
+          }
+        ]
+      },
+      "ids": [
+        4,
+        3
+      ],
+      "reason": "Extenuación: all-in de Draven, Samira o Lucian con soporte de enganche."
+    },
+    {
+      "when": "allyEnchanter",
+      "ids": [
+        4,
+        7
+      ],
+      "reason": "Curación: con soporte encantador rinde más (te cura a ti y a él)."
+    },
+    {
+      "ids": [
+        4,
+        21
+      ],
+      "reason": "Destello + Barrera: lo estándar (Mobalytics y Skill Capped)."
+    }
+  ],
+  "start": [
+    {
+      "when": "laneAllIn",
+      "items": [
+        1055,
+        2003
+      ],
+      "reason": "Espada de Doran: línea de all-in (Draven, Lucian, Samira, Tristana). Con el Arco a 7 AD la diferencia es menor."
+    },
+    {
+      "items": [
+        1086,
+        2003,
+        2003
+      ],
+      "reason": "Arco de Doran y 2 pociones: el inicio estándar (≈70%), aunque ahora da 7 AD."
+    }
+  ],
+  "boots": [
+    {
+      "when": "heavyCC",
+      "item": 3111,
+      "reason": "Botas de Mercurio: mucho control y daño mágico."
+    },
+    {
+      "when": {
+        "all": [
+          "enemyAdcAllIn",
+          "adHeavy"
+        ]
+      },
+      "item": 3047,
+      "reason": "Punteras de Acero: ADC de all-in y casi todo el daño rival es físico."
+    },
+    {
+      "when": "lanePoke",
+      "item": 3008,
+      "reason": "Grebas Glotonas: línea de poke; recuperas vida con cada golpe (Skill Capped)."
+    },
+    {
+      "item": 3006,
+      "reason": "Grebas del Berserker: 30% de velocidad de ataque (≈94% de partidas)."
+    }
+  ],
+  "builds": [
+    {
+      "name": "Anti-dive y control",
+      "when": {
+        "any": [
+          "assassins2",
+          "suppression"
+        ]
+      },
+      "order": [
+        2523,
+        3046,
+        3031,
+        3026,
+        6673,
+        3036
+      ],
+      "reason": "Varios asesinos o supresión: Bailarín Espectral para kitear, Filo, y Ángel Guardián + Arcoescudo antes de la penetración."
+    },
+    {
+      "name": "Hexóptica (estándar)",
+      "order": [
+        2523,
+        3046,
+        3031,
+        3036,
+        3026,
+        3072
+      ],
+      "reason": "Hexóptica C44 → Bailarín Espectral → Filo del Infinito: el núcleo más jugado y el que más gana (57,4% con los tres en 8.500 partidas). El Bailarín es tu única fuente real de velocidad de ataque; Lord Dominik 4º."
+    }
+  ],
+  "situational": [
+    {
+      "when": "healers",
+      "item": 3033,
+      "reason": "Recordatorio Mortal: curación rival (Soraka, Aatrox, Vladimir, Warwick) y nadie lleva antiheal. Reemplaza a Lord Dominik."
+    },
+    {
+      "when": "suppression",
+      "item": 3139,
+      "reason": "Cimitarra Mercurial: supresión o control de clic (Malzahar, Skarner, Warwick)."
+    },
+    {
+      "when": "assassins",
+      "item": 6673,
+      "reason": "Arcoescudo Inmortal: ráfaga o asesinos que te alcanzan."
+    },
+    {
+      "when": "lanePoke",
+      "item": 3072,
+      "reason": "La Sanguinaria: poke o desgaste constante."
+    },
+    {
+      "when": "tanks",
+      "item": 3036,
+      "reason": "Lord Dominik: tanques o luchadores con armadura."
+    },
+    {
+      "item": 3026,
+      "reason": "Ángel Guardián: 5º–6º objeto si eres la amenaza principal de tu equipo."
+    }
+  ],
+  "extras": [
+    {
+      "title": "Segundo objeto",
+      "choices": [
+        {
+          "item": 3046,
+          "reason": "Bailarín Espectral: por defecto; velocidad de ataque, crítico y movimiento para kitear."
+        },
+        {
+          "when": "meleeHeavy",
+          "item": 3085,
+          "reason": "Huracán de Runaan: equipo melee que pelea agrupado (56,2% con Hexóptica → Runaan → Filo). Elígelo tú si se agrupan; con tanques sigue el Bailarín."
+        }
+      ]
+    },
+    {
+      "title": "Primer objeto alternativo (manual)",
+      "choices": [
+        {
+          "when": "manual",
+          "item": 3032,
+          "reason": "Yun Tal: línea pasiva en la que farmeas tranquilo y lo acumulas pronto (52% en sus enfrentamientos)."
+        },
+        {
+          "when": "manual",
+          "item": 6672,
+          "reason": "Matakrakens: solo contra 2+ tanques con línea estable; gana ≈6 puntos menos que la Hexóptica."
+        }
+      ]
+    }
+  ],
+  "skillOrder": "W > Q > E · R en 6, 11 y 16 (W en 1, Q en 2, E en 3)",
+  "notes": [
+    "Tus críticos no hacen más daño: duplican la ralentización (40–60%). El crítico te compra control, no ráfaga.",
+    "Acumula los 4 cargas de la Q con ataques a súbditos y actívala para ganar el intercambio. La W en cono ralentiza siempre: úsala cuando el rival vaya a por un súbdito.",
+    "La R aturde más cuanto más lejos viaja (hasta 3,5 s): lánzala para enganchar solo si tu soporte o tu jungla puede seguir.",
+    "Antes de cada objetivo, E (halcón) a la fosa o a la jungla rival: visión sin arriesgarte.",
+    "Con la misión de bot completa las botas van a su ranura: 6 legendarios + Grebas."
+  ],
+  "builtIn": true,
+  "changelog": [
+    {
+      "date": "2026-11-06",
+      "patch": "26.22",
+      "summary": "Guía creada con el parche 26.22: Hexóptica C44 → Bailarín Espectral → Filo del Infinito → Lord Dominik con Cadencia Letal e Inspiración; Runaan contra equipos melee; build anti-dive; Espada de Doran contra all-in."
+    }
+  ]
+}

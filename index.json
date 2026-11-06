@@ -1,7 +1,16 @@
 {
   "format": 1,
-  "updated": "2026-11-05",
+  "updated": "2026-11-06",
   "entries": [
+    {
+      "kind": "profile",
+      "id": "ashe-adc",
+      "file": "profiles/ashe-adc.json",
+      "sha256": "27b861058bec7b104bef3f835fca6ce6261ae7b4980eb8ca68454d8cb572b700",
+      "champion": "Ashe",
+      "title": "Ashe ADC · qué construir y cuándo",
+      "date": "2026-11-06"
+    },
     {
       "kind": "profile",
       "id": "caitlyn-adc",
@@ -73,6 +82,15 @@
       "champion": "Viktor",
       "title": "Viktor medio · qué construir y cuándo",
       "date": "2026-11-04"
+    },
+    {
+      "kind": "doc",
+      "id": "ashe-guia-build",
+      "file": "docs/ashe-guia-build.md",
+      "sha256": "2164f9775c14df76d74e9a11dbc6c1dacd57a78c2f9861ccceed53e054af2a78",
+      "champion": "Ashe",
+      "title": "Ashe ADC · Qué construir y cuándo",
+      "date": "2026-11-06"
     },
     {
       "kind": "doc",

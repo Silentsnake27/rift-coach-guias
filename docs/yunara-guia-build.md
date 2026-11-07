@@ -2,7 +2,7 @@
 title: Yunara ADC · Qué construir y cuándo
 champions: Yunara
 kind: guía
-date: 2026-11-05
+date: 2026-11-06
 patch: 26.22
 source: Video de Gunfire (Challenger, main Yunara) · "Yunara Build Guide: What to Build & When" + ajustes según la partida de Dishake (coach)
 url: https://claude.ai/artifact/YVdiBaXouMAQTRC8XGrNES
@@ -108,8 +108,10 @@ En la build C44 suele comprar el Zeal antes que las botas nivel 2.
 ## Segundo objeto: el de Zeal
 
 - {{item:3085}} — **~90% de partidas.** Con la Q activa, los rebotes y las flechas hacen mucho daño en área. Destruye invocaciones (Naafiri, W de Malzahar, arañas de Elise, Yorick). Débil en peleas aisladas.
-- {{item:3046}} — contra poke (Xerath). Lo compra por la **velocidad de movimiento**.
+- {{item:3046}} — contra poke (Xerath). Lo compra por la **velocidad de movimiento**. Solo si no hay asesinos rivales.
 - {{item:2512}} — contra dive y asesinos. 30 de aceleración de definitiva; al activar la R baja la E y la W. 3 críticos garantizados tras la R.
+
+> **Línea de poke + asesino rival (p. ej. Ashe + Seraphine con Akali):** {{item:2512}} por delante del {{item:3046}}. El Zeal lo completas hacia el minuto 15–18, cuando la línea ya terminó y lo que te mata es el asesino en las peleas en equipo.
 
 ## Penetración
 

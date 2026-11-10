@@ -2,9 +2,9 @@
 title: Yunara ADC · Qué construir y cuándo
 champions: Yunara
 kind: guía
-date: 2026-11-06
+date: 2026-11-09
 patch: 26.22
-source: Video de Gunfire (Challenger, main Yunara) · "Yunara Build Guide: What to Build & When" + ajustes según la partida de Dishake (coach)
+source: Video de Gunfire (Challenger, main Yunara) · "Yunara Build Guide: What to Build & When" + ajustes según la partida de Dishake (coach) + guía de DantehADC (ex-pro)
 url: https://claude.ai/artifact/YVdiBaXouMAQTRC8XGrNES
 ---
 
@@ -35,7 +35,13 @@ La idea central del video: no copies los mismos 6 objetos cada partida. Elige tu
 - **E · Pasos de Kanmei:** velocidad de movimiento y fantasmal; en la R se vuelve un **dash**.
 - **R:** 15 s potenciada: la W y la E cambian y la Q se activa sola.
 
-**Orden de habilidades:** Q → W → E, R cuando puedas. Hace daño mixto (~65% físico / 35% mágico), así que la penetración mágica y el AP también le sirven.
+**Usar bien el kit (DantehADC):**
+- **Consejo n.º 1:** no uses la R y la E para meterte cuerpo a cuerpo. Tu rango es enorme: guarda la E para cuando de verdad la necesites (escapar o rematar).
+- La Q gana **2 cargas por golpe a un campeón** y 1 por súbdito. Con la Q activa tus ataques salen casi al instante: kiteas mejor.
+- La W, justo **después del control de tu support** (gancho de Nautilus, Q de Karma): impacto seguro y mucho daño al principio. También sirve para farmear de lejos cuando estás en el lado débil.
+- Con la R: el dash de la E **cancela la animación del ataque**; puedes lanzar la W durante la E, o W + Destello (el láser sale desde donde aterrizas).
+
+**Orden de habilidades:** Q → W → E, R cuando puedas (DantehADC maximizaba la E 2ª en el video, pero en los comentarios admite que es la W). Hace daño mixto (~65% físico / 35% mágico), así que la penetración mágica y el AP también le sirven.
 
 ## Runas
 
@@ -76,7 +82,8 @@ La idea central del video: no copies los mismos 6 objetos cada partida. Elige tu
 
 - {{item:3008}} — **~95% de partidas.** Muy fuertes en ADC con daño en área.
 - {{item:3006}} — no las recomienda. Solo contra poke muy molesto.
-- {{item:3047}} — ADC agresivo y asesinos AD, o mucho daño físico rival.
+- {{item:3047}} — ADC agresivo y asesinos AD (Rengar, Zed), o casi todo su daño físico.
+- **DantehADC:** {{item:3006}} contra **2+ tanques** (quieres el máximo daño por segundo) o para hacer bola de nieve; {{item:3008}} contra poke o peleas de entrar y salir. Gunfire y él no coinciden en el poke: la app sigue a Gunfire ahí y usa la regla de los tanques de Dante.
 
 En la build C44 suele comprar el Zeal antes que las botas nivel 2.
 
@@ -105,6 +112,8 @@ En la build C44 suele comprar el Zeal antes que las botas nivel 2.
 
 **Melee vs distancia:** C44 contra equipos a distancia; contra equipos melee, Matakrakens o Yun Tal.
 
+> **DantehADC:** Matakrakens casi siempre; {{item:3032}} solo si **vuelves con Espadón** y la línea es de escalar (contra Jinx + Lulu o Kog'Maw): "cualquier otro componente retrasa demasiado tu poder". Los datos de 26.21 dan algo más a Yun Tal (58% frente a 56%) y los comentarios de su video critican Matakrakens por no dar crítico, así que la guía mantiene las tres opciones según la línea. C44 la ve mejor como 3er objeto cuando vas muy por delante.
+
 ## Segundo objeto: el de Zeal
 
 - {{item:3085}} — **~90% de partidas.** Con la Q activa, los rebotes y las flechas hacen mucho daño en área. Destruye invocaciones (Naafiri, W de Malzahar, arañas de Elise, Yorick). Débil en peleas aisladas.
@@ -119,6 +128,7 @@ En la build C44 suele comprar el Zeal antes que las botas nivel 2.
 |---|---|---|
 | {{item:3036}} | Rivales que acumulan vida (Sion, Ornn, tanques). | El más caro |
 | {{item:3033}} | Curación fuerte (Aatrox, Soraka) y nadie de tu equipo compró antiheal. | Menos daño |
+| {{item:3123}} → {{item:3033}} | DantehADC: si necesitas antiheal antes del Filo, compra el Llamado del Verdugo, guárdalo y sigue con el Filo. Termina el Recordatorio después, solo si además apilan armadura: sus componentes son flojos para ir 3º. | La app lo sugiere así |
 | {{item:3302}} | Equipo blando. Velocidad de ataque, resistencias y penetración mixta. | Necesita 6 golpes. **No con Matakrakens.** |
 
 ## Las tres builds completas
@@ -208,6 +218,18 @@ Complemento del video de Dishake (coach) "Grandes crímenes de itemización". **
 
 **Picos rivales** (la app los marca en partida sin modo seguro): {{item:3031}} en su tirador, {{item:6676}}, {{item:3089}}, {{item:6665}}, {{item:3053}}, {{item:6694}} y {{item:3083}}. Cuando aparece uno, cambia cómo peleas contra ese campeón.
 
+### Contra magos de poke (Syndra, Hwei, Xerath, Zyra)
+
+DantehADC: son las líneas "malas" de Yunara, pero no hay que temerlas.
+- No aceptes sus **intercambios cortos**: es su punto fuerte. Busca **intercambios largos** (tu Q + Tempo Letal ganan cuanto más dure).
+- Aprovecha las **vueltas a base tempranas** y las botas rápidas para comprar antes que ellos: ventaja de objetos sin pelear.
+- Pelea en una **línea larga** (oleada de tu lado) para poder seguir hacia delante tras su habilidad.
+- Desde el nivel 6: Destello por encima de su control (la E de Syndra) + R. Por eso él prefiere **Triple Tónico** a Perspicacia Cósmica.
+
+### Si vas por detrás
+
+Del video y sus comentarios: **farmea cada súbdito, no mueras y castiga sus errores.** No fuerces peleas hasta tener 3 objetos; escala con tu equipo. Lord Dominik antes del Filo si sus niveles ya les dan mucha armadura base.
+
 ## Plan de práctica
 
 **En la pantalla de carga**
@@ -234,4 +256,4 @@ Complemento del video de Dishake (coach) "Grandes crímenes de itemización". **
 | 26.20 | Q: daño base 5/10/15/20/25 → 3/8/13/18/23. Las ralentizaciones de la W ya no se acumulan. | Nerf pequeño al daño temprano. Las builds siguen igual. |
 | 26.21 | {{item:3008}}: 1000 → 1100 de oro. Yunara sin cambios. | Siguen siendo las botas recomendadas. |
 
-**Fuentes:** video de Gunfire (twitch.tv/gunfireadc); [Dishake · Grandes crímenes de itemización](https://www.youtube.com/watch?v=Vjez_TE7NPY) (momento de la penetración y defensivos); [Dishake · Los ítems no suman… se multiplican](https://www.youtube.com/watch?v=xXJpnbhDiTU) (picos de poder); [LoLalytics · Yunara](https://lolalytics.com/lol/yunara/build/); [RiftPatchNotes · Yunara](https://www.riftpatchnotes.com/lol/champion/yunara); [Gameriv · parche 26.21](https://gameriv.com/league-of-legends-patch-26-21-notes-all-buffs-nerfs-and-more/); [U.GG · Yunara](https://u.gg/lol/champions/yunara/build); [Liquipedia · Yunara](https://liquipedia.net/leagueoflegends/Yunara).
+**Fuentes:** video de Gunfire (twitch.tv/gunfireadc); [Dishake · Grandes crímenes de itemización](https://www.youtube.com/watch?v=Vjez_TE7NPY) (momento de la penetración y defensivos); [Dishake · Los ítems no suman… se multiplican](https://www.youtube.com/watch?v=xXJpnbhDiTU) (picos de poder); [DantehADC · complete educational yunara guide by an ex-pro](https://www.youtube.com/watch?v=GYhiWbJt9zU) (kit, botas, antiheal, cómo jugar por detrás y comentarios); [LoLalytics · Yunara](https://lolalytics.com/lol/yunara/build/); [RiftPatchNotes · Yunara](https://www.riftpatchnotes.com/lol/champion/yunara); [Gameriv · parche 26.21](https://gameriv.com/league-of-legends-patch-26-21-notes-all-buffs-nerfs-and-more/); [U.GG · Yunara](https://u.gg/lol/champions/yunara/build); [Liquipedia · Yunara](https://liquipedia.net/leagueoflegends/Yunara).

@@ -28,6 +28,6 @@ No edites estos archivos a mano: se generan desde el repo de la app con `node sc
 | Miss Fortune ADC · Qué construir y cuándo | MissFortune | 2026-11-04 |
 | Seraphine Support · Qué construir y cuándo | Seraphine | 2026-11-04 |
 | Viktor Medio · Qué construir y cuándo | Viktor | 2026-11-04 |
-| Yunara ADC · Qué construir y cuándo | Yunara | 2026-11-06 |
+| Yunara ADC · Qué construir y cuándo | Yunara | 2026-11-09 |
 | Runas de Yunara · qué página elegir | Yunara | 2026-10-28 |
 | Partida 28/10 · Yunara contra Zed y Camille | Yunara | 2026-10-28 |

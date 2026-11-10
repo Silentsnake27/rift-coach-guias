@@ -16,7 +16,7 @@ La idea central del video: no copies los mismos 6 objetos cada partida. Elige tu
 
 | Primer objeto | Elígelo cuando… | Curva de poder | Sigue con |
 |---|---|---|---|
-| {{item:6672}} | Línea agresiva (Tristana, Kai'Sa, Samira) o tu jungla juega mucho por bot. Quieres hacer bola de nieve. | Pico más fuerte al terminarlo, escala lento | {{item:2512}} |
+| {{item:6672}} | Línea agresiva (Tristana, Kai'Sa, Samira) o tu jungla juega mucho por bot. Quieres hacer bola de nieve. | Pico más fuerte al terminarlo, escala lento | {{item:3085}} |
 | {{item:2523}} | Su favorita. Contra composiciones a distancia. Barato, da stats al instante, muchas opciones después. | Escala rápido, algo menos fuerte que Yun Tal al final | {{item:3085}} |
 | {{item:3032}} | Línea tranquila, puedes volver con Espadón, o tienes soporte encantador. Juego front-to-back. | El más lento al inicio, el más fuerte con el crítico acumulado | {{item:3085}} |
 
@@ -118,9 +118,11 @@ En la build C44 suele comprar el Zeal antes que las botas nivel 2.
 
 - {{item:3085}} — **~90% de partidas.** Con la Q activa, los rebotes y las flechas hacen mucho daño en área. Destruye invocaciones (Naafiri, W de Malzahar, arañas de Elise, Yorick). Débil en peleas aisladas.
 - {{item:3046}} — contra poke (Xerath). Lo compra por la **velocidad de movimiento**. Solo si no hay asesinos rivales.
-- {{item:2512}} — contra dive y asesinos. 30 de aceleración de definitiva; al activar la R baja la E y la W. 3 críticos garantizados tras la R.
+- {{item:2512}} — contra **2+ asesinos o dive**. 30 de aceleración de definitiva; al activar la R baja la E y la W. 3 críticos garantizados tras la R.
 
-> **Línea de poke + asesino rival (p. ej. Ashe + Seraphine con Akali):** {{item:2512}} por delante del {{item:3046}}. El Zeal lo completas hacia el minuto 15–18, cuando la línea ya terminó y lo que te mata es el asesino en las peleas en equipo.
+> **Datos (OP.GG, parche 26.22, Yunara contra los 6 tiradores más comunes, ~55.000 partidas):** {{item:3085}} 2º en el 85% de partidas con 52,3% de victorias; {{item:2512}} 9,6% con 49,0%. **Incluso con {{item:6672}}**: Matakrakens → Runaan → Filo 56,1% frente a Matakrakens → Cazademonios → Filo 52,8%. Por eso la regla de Gunfire "con Matakrakens, Cazademonios" se cambia a Runaan, como dice DantehADC.
+>
+> **Un solo asesino rival:** Runaan. En partida (sin modo seguro), la app propone cambiar a Cazademonios si ese asesino va fuerte (5+ asesinatos y 3 más que muertes) y aún no has comprado el Zeal; con un aliado que te protege (Janna, Lulu, Leona…) solo si va muy fuerte (8+). Al revés, si tu plan tenía Cazademonios y los asesinos van por detrás, te propone volver a Runaan.
 
 ## Penetración
 
@@ -135,7 +137,7 @@ En la build C44 suele comprar el Zeal antes que las botas nivel 2.
 
 **Matakrakens (bola de nieve)**
 
-{{build:6672,2512,3031,3036,2523}}
+{{build:6672,3085,3031,3036,2523}}
 
 Contra un tanque con mucha vida: Filo 3º, Lord Dominik 4º y C44 5º.
 

@@ -158,7 +158,7 @@ Terminus compensa la falta de velocidad de ataque de C44. {{item:3157}} contra e
 | Problema | Respuesta |
 |---|---|
 | Supresión / control que te mata | {{item:3139}} |
-| Engage inevitable o asesinos | {{item:3157}} |
+| Engage inevitable o asesinos | {{item:3157}} (4º, después del Filo; antes solo si uno de ellos va fuerte) |
 | Quieres una segunda vida | {{item:3026}} |
 | Más robo de vida | {{item:3072}} |
 | AP molesto (Evelynn) | {{item:2504}} |

@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "entries": [
     {
       "kind": "profile",
@@ -168,7 +168,7 @@
       "kind": "doc",
       "id": "yunara-guia-build",
       "file": "docs/yunara-guia-build.md",
-      "sha256": "488a770d26c1610f8f3ba89d4a3084095629aa521bcb26e898d88750ae929113",
+      "sha256": "5a94aa443d01a8f78eaa8c5d747b19e711cae0c39178880e6017ce79f76f36a3",
       "champion": "Yunara",
       "title": "Yunara ADC · Qué construir y cuándo",
       "date": "2026-11-09"

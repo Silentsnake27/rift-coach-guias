@@ -61,7 +61,7 @@ La idea central del video: no copies los mismos 6 objetos cada partida. Elige tu
 | Build Yun Tal | {{rune:8313}} obligatorio | El elixir de nivel 3 da oro para llegar antes al Espadón. |
 | Asesinos / dive (Vi, Nocturne) | {{rune:8347}} | Destello y Barrera con menos enfriamiento. |
 | Hechizo distinto a Barrera | {{rune:8347}} | Purificación, Extenuación y Fantasmal tardan mucho. |
-| Línea muy agresiva | Valor secundario con {{rune:8473}} | Aguantas los all-in. |
+| Línea muy agresiva: {{champ:Tristana}}, {{champ:Samira}}, Draven, Nilah o Kalista; otro tirador agresivo (Kai'Sa, Lucian) con support de engage; o un cuerpo a cuerpo de tirador (Yasuo, Zed) | Valor secundario con {{rune:8473}} | Aguantas los all-in. Un support de engage solo (Leona, Nautilus) no basta: Inspiración con {{rune:8347}} (en tus partidas 20–16 frente a 10–10 con Valor). |
 
 ## Hechizos de invocador
 
